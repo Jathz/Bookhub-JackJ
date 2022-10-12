@@ -1,0 +1,63 @@
+.mainContainer {
+    padding: 20px 30px;
+}
+
+.createShelfBtnWrapper {
+    display: flex;
+    padding-right: 30px;
+    /* background-color: aqua; */
+    justify-content: end;
+}
+
+.tabsSection {
+
+}
+
+.tabToggleBar {
+    margin-left: 30px;
+}
+
+.shelvesSection {
+
+}
+
+.shelfComponent {
+    padding: 20px 10px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.shelfComponentTopContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.shelfComponentLeft {
+    flex: 3;
+    min-width: 60%;
+}
+
+.shelfBooksSection {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shelfComponentRight {
+    display: flex;
+    /* background-color: antiquewhite; */
+    align-items: flex-start;
+    justify-content: end;
+}
+
+.shelfDescription {
+    font-size: 0.7em;
+}
+
+.shelfGapWrapper {
+    margin: 0px 10px;
+}
+
+Button {
+    width: max-content;
+}

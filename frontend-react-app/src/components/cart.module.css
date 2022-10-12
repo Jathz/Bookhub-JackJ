@@ -1,0 +1,14 @@
+.block_container
+{
+	display: flex;
+}
+
+.bloc1
+{
+	display:inline;
+}
+
+.bloc2
+{
+	display:inline;
+}

@@ -1,0 +1,2427 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>The List of 1000 Books &#8211; Library of 1000 Books</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Libre+Baskerville:r:latin,latin-ext","Vollkorn:r,i,b,bi:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body, .wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Vollkorn",serif}.wf-active ::-webkit-input-placeholder{font-family:"Vollkorn",serif}.wf-active :-moz-placeholder{font-family:"Vollkorn",serif}.wf-active ::-moz-placeholder{font-family:"Vollkorn",serif}.wf-active :-ms-input-placeholder{font-family:"Vollkorn",serif}.wf-active button, .wf-active button[disabled]:hover, .wf-active button[disabled]:focus, .wf-active input[type="button"], .wf-active input[type="button"][disabled]:hover, .wf-active input[type="button"][disabled]:focus, .wf-active input[type="reset"], .wf-active input[type="reset"][disabled]:hover, .wf-active input[type="reset"][disabled]:focus, .wf-active input[type="submit"], .wf-active input[type="submit"][disabled]:hover, .wf-active input[type="submit"][disabled]:focus, .wf-active .main-navigation, .wf-active .no-comments, .wf-active .tagcloud a, .wf-active .wp_widget_tag_cloud a, .wf-active .top_rated div > p, .wf-active .comments-area #respond .comment-form-fields p.comment-form-posting-as, .wf-active .comments-area #respond .comment-form-fields p.comment-form-log-out, .wf-active .comments-area #respond #comment-form-identity #comment-form-nascar p, .wf-active .comments-area #respond #comment-form-subscribe p, .wf-active .comments-area #respond p.form-submit input#comment-submit, .wf-active .comment-content p.comment-likes span.comment-like-feedback, .wf-active .jp-relatedposts-post-date, .wf-active .jp-relatedposts-post-context{font-family:"Vollkorn",serif}.wf-active .post-password-form label, .wf-active .comment-form label, .wf-active .entry-content .contact-form label, .wf-active .post-navigation .meta-nav, .wf-active .image-navigation, .wf-active .comment-navigation, .wf-active .menu-toggle, .wf-active .widget_recent_entries .post-date, .wf-active .widget_rss .rss-date, .wf-active .widget_rss cite, .wf-active .sticky-post, .wf-active .entry-footer, .wf-active .comment-metadata, .wf-active .pingback .edit-link, .wf-active .comment-reply-link, .wf-active .page-links, .wf-active .page-links a, .wf-active .page-links > span, .wf-active .pd-rating, .wf-active .entry-content .portfolio-entry-meta, .wf-active .entry-content #jp-relatedposts h3.jp-relatedposts-headline, .wf-active .hentry div.sharedaddy h3.sd-title, .wf-active .hentry h3.sd-title{font-family:"Vollkorn",serif}.wf-active .pagination{font-family:"Vollkorn",serif}.wf-active body:not(.logged-in) .site .skip-link{font-family:"Vollkorn",serif}.wf-active .site-description, .wf-active .author-bio, .wf-active .taxonomy-description, .wf-active .entry-caption, .wf-active .comment-notes, .wf-active .comment-awaiting-moderation, .wf-active .logged-in-as, .wf-active .form-allowed-tags, .wf-active .site-info, .wf-active .wp-caption .wp-caption-text, .wf-active .gallery-caption, .wf-active .entry-content .portfolio-entry-content p, .wf-active .entry-content .testimonial-entry-title, .wf-active .entry-content .testimonial-entry-content p, .wf-active .entry-content #jp-relatedposts .jp-relatedposts-items p, .wf-active .entry-content #jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title{font-family:"Vollkorn",serif}.wf-active .site-title, .wf-active .post-navigation .post-title, .wf-active .comments-title, .wf-active .comment-reply-title, .wf-active .page-title{font-family:"Libre Baskerville",serif;font-style:normal;font-weight:400}.wf-active .widget .widget-title, .wf-active .entry-content .portfolio-entry-title{font-family:"Libre Baskerville",serif;font-style:normal;font-weight:400}.wf-active .entry-title{font-family:"Libre Baskerville",serif;font-style:normal;font-weight:400}.wf-active .format-aside .entry-title, .wf-active .format-image .entry-title, .wf-active .format-video .entry-title, .wf-active .format-quote .entry-title, .wf-active .format-gallery .entry-title, .wf-active .format-status .entry-title, .wf-active .format-link .entry-title, .wf-active .format-audio .entry-title, .wf-active .format-chat .entry-title{font-style:normal;font-weight:400}@media screen and (min-width: 44.375em){.wf-active .site-title, .wf-active .post-navigation .post-title{font-style:normal;font-weight:400}}@media screen and (min-width: 44.375em){.wf-active .entry-title{font-style:normal;font-weight:400}}@media screen and (min-width: 61.5625em){.wf-active .entry-title{font-style:normal;font-weight:400}}@media screen and (min-width: 61.5625em){.wf-active .format-aside .entry-title, .wf-active .format-image .entry-title, .wf-active .format-video .entry-title, .wf-active .format-quote .entry-title, .wf-active .format-gallery .entry-title, .wf-active .format-status .entry-title, .wf-active .format-link .entry-title, .wf-active .format-audio .entry-title, .wf-active .format-chat .entry-title{font-style:normal;font-weight:400}}</style>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Library of 1000 Books &raquo; Feed" href="https://libraryof1000books.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Library of 1000 Books &raquo; Comments Feed" href="https://libraryof1000books.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1625065786h&ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydkeFOwzAMhF+I1GyMCn4gniVNrODVSarEoeTtSSsBZWMD8fN0vi9nB+ZJmRgEg4AvauLiKGSYJxO9yp4Y64nqTM438HPMxIRKXtBjbraftIDMbaZmehPEcC07k3UoGbA0N46EivUMgn5iLZghS2U8Awwc3RciJqttBsdx0HztMaaxIY8okzajWtXZ+MesK00OmJxa1oPX3b577G5hKMR2eX8FDEmneqHjP0DrDT9BFAwXuxTO4NGSRm72stFGtDNVTIrRaVM7T+H3ePO2+lvocvm16eZ4usYiyiWyf97/BJG0UHCbL372T7v+8NDfH/q7/fEdiAH+DQ==?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--dark-gray: #1a1a1a;--wp--preset--color--medium-gray: #686868;--wp--preset--color--light-gray: #e5e5e5;--wp--preset--color--white: #fff;--wp--preset--color--blue-gray: #4d545c;--wp--preset--color--bright-blue: #007acc;--wp--preset--color--light-blue: #9adffd;--wp--preset--color--dark-brown: #402b30;--wp--preset--color--medium-brown: #774e24;--wp--preset--color--dark-red: #640c1f;--wp--preset--color--bright-red: #ff675f;--wp--preset--color--yellow: #ffef8e;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/_static/??-eJx9zEEOwkAIBdALiaTWaDfGs7QjUXSYIYVJr18aExfGuCHw4YGLQqrFqThKA83tzsUw1ZkiFx0d40LoxiNlkjjbJ7Md/maLhoFp0pnMIKpwE/BHQPvnQm2vIfOLYrKv5E0ZS3UObZ9mW1zl0h3703noD0P3XAFDZ01X?cssminify=yes' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJyNjcEOQDAQRH9ILdIIB/Evmg2l3TZ2G/y9xslF4jZ58yYDR1QmkCAJ+KSiS7MlhhkJd5uLj1ga5gJeW1nQI0NME8iRwcX2FEQClsvhfz2LMLlgtudi9EPdat03Va279QZyi0C1?cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='https://s0.wp.com/wp-content/themes/pub/twentysixteen/css/ie.css?m=1448353951h&#038;ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://s0.wp.com/wp-content/themes/pub/twentysixteen/css/ie8.css?m=1493067000h&#038;ver=20170530' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://s0.wp.com/wp-content/themes/pub/twentysixteen/css/ie7.css?m=1448353951h&#038;ver=20170530' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-10-1' href='https://s0.wp.com/_static/??-eJx9jUEOwjAMBD+EMRGtxAXxljYyISixo9pR2t+TcgEu3HZWGg22Al7YiA3tQZkUS53RWj82jasRMXpVVNsSQSte8rHzAb/EXKGkGiIrBhJI4ieLwj8A9zTF5Z+60Jwk9BnewQ/u0i1f3eiG8XR27vJ8AeH3Q6k=?cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='all-css-12-1' href='https://s0.wp.com/_static/??-eJxti0EKgCAQAD+UbVFGHaK3mJgaqyut0vejQ4eo0zAwA2cSmmI2MUMoImGxPjIk4iw2VP4Adurw0T6sNXMF/xeT9goFkqW3fKbsTDAMrgeLtCq8gyXM7dCNUjZy6vcLZTc31Q==?cssminify=yes' type='text/css' media='all' />
+<script id='media-video-widget-extensions-js-extra'>
+var videopressAjax = {"ajaxUrl":"https:\/\/libraryof1000books.wordpress.com\/wp-admin\/admin-ajax.php","bridgeUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/videopress\/js\/videopress-token-bridge.js"};
+</script>
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"144622857","siteURL":"http:\/\/libraryof1000books.wordpress.com","xhrURL":"https:\/\/libraryof1000books.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"f7e1562474","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/P9MP0J-4B","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar"}};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJyFjt0KwjAMhV/IrAynzAvxWfYTu9Q2rW3qtrd3yoQhgleHnHwfHDUG6DwLsiiXIdisiZN6UI8+RExJme0F4m/I0EbqNRYm7dTGX0jnW7IIOWFs9NIB8dX/4KIVCNFP8/dPBnSYVMitknEp5kSTIPJLGsTZw0cg7mzu8b3P3DPGeY3CEf+FwJGOjeAKX9y5PFanfVXVdWmeqTpmww=='></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://libraryof1000books.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://libraryof1000books.wordpress.com/the-list-of-1000-books/" />
+<link rel='shortlink' href='https://wp.me/P9MP0J-4B' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Flibraryof1000books.wordpress.com%2Fthe-list-of-1000-books%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Flibraryof1000books.wordpress.com%2Fthe-list-of-1000-books%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The List of 1000 Books" />
+<meta property="og:url" content="https://libraryof1000books.wordpress.com/the-list-of-1000-books/" />
+<meta property="og:description" content="Here is the full List. All 1000 Books finally in one place The Fault in Our Stars &#8211; John Green (2012) Divergent &#8211; Veronica Roth (2011) Pride and Prejudice &#8211; Jane Austen (1813) 198…" />
+<meta property="article:published_time" content="2018-09-17T19:33:22+00:00" />
+<meta property="article:modified_time" content="2020-06-23T16:45:47+00:00" />
+<meta property="og:site_name" content="Library of 1000 Books" />
+<meta property="og:image" content="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" />
+<meta property="og:image:width" content="1638" />
+<meta property="og:image:height" content="434" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:text:title" content="The List of 1000&nbsp;Books" />
+<meta name="twitter:image" content="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://libraryof1000books.wordpress.com/osd.xml" title="Library of 1000 Books" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#e6ddd0" />
+<meta name="application-name" content="Library of 1000 Books" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="One Woman&#039;s Journey to Read the Most Popular Books" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://libraryof1000books.wordpress.com/feed/;icon-uri=https://libraryof1000books.files.wordpress.com/2018/08/cropped-29302.png?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="description" content="Here is the full List. All 1000 Books finally in one place The Fault in Our Stars - John Green (2012) Divergent - Veronica Roth (2011) Pride and Prejudice - Jane Austen (1813) 1984 - George Orwell (1949) The Kite Runner - Khaled Hosseini (2003) The Fellowship of the Ring - J.R.R. Tolkien (1954) The&hellip;" />
+<style id="custom-background-css">
+body.custom-background { background-color: #e6ddd0; }
+</style>
+			<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/advertising-program-optout/';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'Do Not Sell My Personal Information';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+				<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 2, 'ht': 0, 'tn': 'twentysixteen', 'uloggedin': 0, 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': false, 'ad': { 'label': { 'text': 'Advertisements' }, 'reportAd': { 'text': 'Report this ad' } }, 'siteid': 8982, 'blogid': 144622857 };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script><!-- There is no amphtml version available for this URL. --><style type="text/css" id="custom-colors-css">	input[type="text"],
+	input[type="email"],
+	input[type="url"],
+	input[type="password"],
+	input[type="search"],
+	input[type="tel"],
+	input[type="number"],
+	textarea {
+		background: #f7f7f7;
+		color: #686868;
+	}
+
+	input[type="text"]:focus,
+	input[type="email"]:focus,
+	input[type="url"]:focus,
+	input[type="password"]:focus,
+	input[type="search"]:focus,
+	input[type="tel"]:focus,
+	input[type="number"]:focus,
+	textarea:focus {
+		background-color: #fff;
+		color: #1a1a1a;
+	}
+body { background-color: #e6ddd0;}
+.site,
+		.main-navigation ul ul li { background-color: #eee9e1;}
+body #infinite-footer .container { background-color: #eee9e1;}
+body #infinite-footer .container { background-color: rgba( 238, 233, 225, 0.9 );}
+.main-navigation ul ul:after { border-top-color: #eee9e1;}
+.main-navigation ul ul:after { border-bottom-color: #eee9e1;}
+mark,
+		ins,
+		button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination .prev,
+		.pagination .next,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.pagination .nav-links:before,
+		.pagination .nav-links:after,
+		.widget_calendar tbody a,
+		.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus,
+		.page-links a,
+		.page-links a:hover,
+		.page-links a:focus,
+		.site-main #infinite-handle span,
+		.wp-block-button .wp-block-button__link:active,
+		.wp-block-button .wp-block-button__link:focus,
+		.wp-block-button .wp-block-button__link:hover,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):active,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):focus,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):hover { color: #eee9e1;}
+.menu-toggle:hover,
+		.menu-toggle:focus,
+		a,
+		.main-navigation a:hover,
+		.main-navigation a:focus,
+		.dropdown-toggle:hover,
+		.dropdown-toggle:focus,
+		.social-navigation a:hover:before,
+		.social-navigation a:focus:before,
+		.post-navigation a:hover .post-title,
+		.post-navigation a:focus .post-title,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.site-branding .site-title a:hover,
+		.site-branding .site-title a:focus,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-footer a:hover,
+		.entry-footer a:focus,
+		.comment-metadata a:hover,
+		.comment-metadata a:focus,
+		.pingback .comment-edit-link:hover,
+		.pingback .comment-edit-link:focus,
+		.comment-reply-link,
+		.comment-reply-link:hover,
+		.comment-reply-link:focus,
+		.required,
+		.site-info a:hover,
+		.site-info a:focus,
+		.main-navigation li:hover > a,
+		.main-navigation li.focus > a,
+		.comments-area #respond .comment-form-service a,
+		.widget_flickr #flickr_badge_uber_wrapper a,
+		.widget_flickr #flickr_badge_uber_wrapper a:link,
+		.widget_flickr #flickr_badge_uber_wrapper a:active,
+		.widget_flickr #flickr_badge_uber_wrapper a:visited,
+		.wp_widget_tag_cloud a:hover,
+		.wp_widget_tag_cloud a:focus,
+		body #infinite-footer .blog-info a:hover,
+		body #infinite-footer .blog-info a:focus,
+		body #infinite-footer .blog-info a:hover,
+		body #infinite-footer .blog-info a:focus,
+		body #infinite-footer .blog-credits a:hover,
+		body #infinite-footer .blog-credits a:focus,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color) { color: #CF1A1A;}
+mark,
+		ins,
+		button:hover,
+		button:focus,
+		input[type="button"]:hover,
+		input[type="button"]:focus,
+		input[type="reset"]:hover,
+		input[type="reset"]:focus,
+		input[type="submit"]:hover,
+		input[type="submit"]:focus,
+		.pagination .prev:hover,
+		.pagination .prev:focus,
+		.pagination .next:hover,
+		.pagination .next:focus,
+		.widget_calendar tbody a,
+		.page-links a:hover,
+		.page-links a:focus,
+		#infinite-handle span:hover,
+		#infinite-handle span:focus,
+		.wp-block-button .wp-block-button__link { background-color: #CF1A1A;}
+input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		textarea:focus,
+		.tagcloud a:hover,
+		.tagcloud a:focus,
+		.menu-toggle:hover,
+		.menu-toggle:focus,
+		.comments-area #respond #comment-form-comment.active,
+		.comments-area #comment-form-share-text-padder.active,
+		.comments-area #respond .comment-form-fields div.comment-form-input.active,
+		.wp_widget_tag_cloud a:hover,
+		.wp_widget_tag_cloud a:focus,
+		.wp-block-button .wp-block-button__link { border-color: #CF1A1A;}
+body,
+		blockquote cite,
+		blockquote small,
+		.main-navigation a,
+		.menu-toggle,
+		.dropdown-toggle,
+		.social-navigation a,
+		.post-navigation a,
+		.widget-title a,
+		.site-branding .site-title a,
+		.entry-title a,
+		.page-links > .page-links-title,
+		.comment-author,
+		.comment-reply-title small a:hover,
+		.comment-reply-title small a:focus { color: #595959;}
+blockquote,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.post-navigation,
+		.post-navigation div + div,
+		.pagination,
+		.widget,
+		.page-header,
+		.page-links a,
+		.comments-title,
+		.comment-reply-title,
+		.wp-block-button .wp-block-button__link:active,
+		.wp-block-button .wp-block-button__link:focus,
+		.wp-block-button .wp-block-button__link:hover,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):active,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):focus,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):hover { border-color: #595959;}
+button,
+		button[disabled]:hover,
+		button[disabled]:focus,
+		input[type="button"],
+		input[type="button"][disabled]:hover,
+		input[type="button"][disabled]:focus,
+		input[type="reset"],
+		input[type="reset"][disabled]:hover,
+		input[type="reset"][disabled]:focus,
+		input[type="submit"],
+		input[type="submit"][disabled]:hover,
+		input[type="submit"][disabled]:focus,
+		.menu-toggle.toggled-on,
+		.menu-toggle.toggled-on:hover,
+		.menu-toggle.toggled-on:focus,
+		.pagination:before,
+		.pagination:after,
+		.pagination .prev,
+		.pagination .next,
+		.page-links a,
+		.site-main #infinite-handle span,
+		.wp-block-button .wp-block-button__link:active,
+		.wp-block-button .wp-block-button__link:focus,
+		.wp-block-button .wp-block-button__link:hover,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):active,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):focus,
+		.is-style-outline>.wp-block-button__link:not(.has-text-color):hover { background-color: #595959;}
+fieldset,
+		pre,
+		abbr,
+		acronym,
+		table,
+		th,
+		td,
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		input[type="password"],
+		input[type="search"],
+		textarea,
+		.main-navigation li,
+		.main-navigation .primary-menu,
+		.menu-toggle,
+		.dropdown-toggle:after,
+		.social-navigation a,
+		.image-navigation,
+		.comment-navigation,
+		.tagcloud a,
+		.entry-content,
+		.entry-summary,
+		.page-links a,
+		.page-links > span,
+		.comment-list article,
+		.comment-list .pingback,
+		.comment-list .trackback,
+		.comment-reply-link,
+		.no-comments,
+		.main-navigation ul ul,
+		.main-navigation ul ul li,
+		.comments-area #respond #comment-form-comment,
+		.comments-area #comment-form-share-text-padder,
+		.comments-area #respond .comment-form-fields div.comment-form-input,
+		.comments-area #respond .comment-form-service,
+		.wp_widget_tag_cloud a,
+		body #infinite-footer .container { border-color: #595959;}
+fieldset,
+		pre,
+		abbr,
+		acronym,
+		table,
+		th,
+		td,
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		input[type="password"],
+		input[type="search"],
+		textarea,
+		.main-navigation li,
+		.main-navigation .primary-menu,
+		.menu-toggle,
+		.dropdown-toggle:after,
+		.social-navigation a,
+		.image-navigation,
+		.comment-navigation,
+		.tagcloud a,
+		.entry-content,
+		.entry-summary,
+		.page-links a,
+		.page-links > span,
+		.comment-list article,
+		.comment-list .pingback,
+		.comment-list .trackback,
+		.comment-reply-link,
+		.no-comments,
+		.main-navigation ul ul,
+		.main-navigation ul ul li,
+		.comments-area #respond #comment-form-comment,
+		.comments-area #comment-form-share-text-padder,
+		.comments-area #respond .comment-form-fields div.comment-form-input,
+		.comments-area #respond .comment-form-service,
+		.wp_widget_tag_cloud a,
+		body #infinite-footer .container { border-color: rgba( 89, 89, 89, 0.2 );}
+.main-navigation ul ul:before { border-top-color: #595959;}
+.main-navigation ul ul:before { border-top-color: rgba( 89, 89, 89, 0.2 );}
+.main-navigation ul ul:before { border-bottom-color: #595959;}
+.main-navigation ul ul:before { border-bottom-color: rgba( 89, 89, 89, 0.2 );}
+hr,
+		code { background-color: #595959;}
+hr,
+		code { background-color: rgba( 89, 89, 89, 0.2 );}
+blockquote,
+		.post-password-form label,
+		a:hover,
+		a:focus,
+		a:active,
+		.post-navigation .meta-nav,
+		.image-navigation,
+		.comment-navigation,
+		.widget_recent_entries .post-date,
+		.widget_rss .rss-date,
+		.widget_rss cite,
+		.site-description,
+		body:not(.search-results) .entry-summary,
+		.author-bio,
+		.entry-footer,
+		.entry-footer a,
+		.sticky-post,
+		.taxonomy-description,
+		.entry-caption,
+		.comment-metadata,
+		.pingback .edit-link,
+		.comment-metadata a,
+		.pingback .comment-edit-link,
+		.comment-form label,
+		.comment-notes,
+		.comment-awaiting-moderation,
+		.logged-in-as,
+		.form-allowed-tags,
+		.site-info,
+		.site-info a,
+		.wp-caption .wp-caption-text,
+		.gallery-caption,
+		.jp-relatedposts-post-aoverlay:hover .jp-relatedposts-post-title a,
+		.jp-relatedposts-post-aoverlay:focus .jp-relatedposts-post-title a,
+		.comments-area #respond .comment-form-fields label,
+		.comments-area #respond .comment-form-fields label span.required,
+		.comments-area #respond .comment-form-fields label span.nopublish,
+		.comments-area #respond .comment-form-service a:hover,
+		.comments-area #respond .comment-form-service a:focus,
+		.comments-area #respond .comment-form-fields p.comment-form-posting-as,
+		.comments-area #respond .comment-form-fields p.comment-form-log-out,
+		.comments-area #respond #comment-form-identity #comment-form-nascar p,
+		.comments-area #respond #comment-form-subscribe p,
+		.comment-content p.comment-likes span.comment-like-feedback,
+		.widget_flickr #flickr_badge_uber_wrapper a:focus,
+		.widget_flickr #flickr_badge_uber_wrapper a:hover,
+		.top_rated div > p,
+		body #infinite-footer .blog-info a,
+		body #infinite-footer .blog-credits,
+		body #infinite-footer .blog-credits a { color: #686868;}
+#respond.js .comment-form-fields label,
+		#respond.js .comment-form-fields label span.required,
+		#respond.js .comment-form-fields label span.nopublish { color: #757575;}
+.widget_calendar tbody a:hover,
+		.widget_calendar tbody a:focus { background-color: #686868;}
+</style>
+<link rel="icon" href="https://libraryof1000books.files.wordpress.com/2018/08/cropped-29302.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://libraryof1000books.files.wordpress.com/2018/08/cropped-29302.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://libraryof1000books.files.wordpress.com/2018/08/cropped-29302.png?w=180" />
+<meta name="msapplication-TileImage" content="https://libraryof1000books.files.wordpress.com/2018/08/cropped-29302.png?w=270" />
+<script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="page-template-default page page-id-285 custom-background wp-embed-responsive customizer-styles-applied highlander-enabled highlander-light">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header">
+			<div class="site-header-main">
+				<div class="site-branding">
+					<a href="https://libraryof1000books.wordpress.com/" class="site-logo-link" rel="home" itemprop="url"></a>
+											<p class="site-title"><a href="https://libraryof1000books.wordpress.com/" rel="home">Library of 1000 Books</a></p>
+												<p class="site-description">One Woman&#039;s Journey to Read the Most Popular Books</p>
+									</div><!-- .site-branding -->
+
+									<button id="menu-toggle" class="menu-toggle">Menu</button>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" aria-label="Primary Menu">
+								<div class="menu-primary-container"><ul id="menu-primary" class="primary-menu"><li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="/">Home</a></li>
+<li id="menu-item-1266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1266"><a href="https://libraryof1000books.wordpress.com/about-faq/">About /  FAQ</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7"><a href="https://libraryof1000books.wordpress.com/contact/">Contact</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-285 current_page_item menu-item-298"><a href="https://libraryof1000books.wordpress.com/the-list-of-1000-books/" aria-current="page">The List of 1000 Books</a></li>
+</ul></div>							</nav><!-- .main-navigation -->
+						
+											</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+											<div class="header-image">
+					<a href="https://libraryof1000books.wordpress.com/" rel="home">
+						<img src="https://libraryof1000books.files.wordpress.com/2018/10/cropped-shilo-on-the-book-shelf.jpg" srcset="" sizes="" width="1200" height="455" alt="Library of 1000 Books">
+					</a>
+				</div><!-- .header-image -->
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main">
+		
+<article id="post-285" class="post-285 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">The List of 1000&nbsp;Books</h1>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p>Here is the full List. All 1000 Books finally in one place</p>
+<ol>
+<li>The Fault in Our Stars &#8211; John Green (2012)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/03/28/book-2-divergent-by-veronica-roth/">Divergent &#8211; Veronica Roth (2011)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/04/book-3-pride-and-prejudice-by-jane-austen/">Pride and Prejudice &#8211; Jane Austen (1813)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/04/30/book-4-1984-by-george-orwell/">1984 &#8211; George Orwell (1949)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/02/book-5-the-kite-runner-by-khaled-hosseini/">The Kite Runner &#8211; Khaled Hosseini (2003)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/08/20/book-6-the-fellowship-of-the-ring/">The Fellowship of the Ring &#8211; J.R.R. Tolkien (1954)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/08/01/book-7-the-lovely-bones-by-alice-sebold/">The Lovely Bones &#8211; Alice Sebold (2002)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/23/book-8-gone-girl-by-gillian-flynn/">Gone Girl &#8211; Gillian Flynn (2012)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/09/book-9-the-help-by-kathryn-stockett/">The Help &#8211; Kathyrn Stockett (2009)</a></li>
+<li>Of Mice and Men &#8211; John Steinbeck (1937)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/10/book-11-the-alchemist-by-paulo-coelho/">The Alchemist &#8211; Paulo Coehlo (1988)</a></li>
+<li>Fifty Shades of Grey &#8211; E.L. James (2011)</li>
+<li>The Girl on the Train &#8211; Paula Hawkins (2015)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/16/book-14-the-book-thief-by-markus-zusak/">The Book Thief &#8211; Markus Zuzak (2005)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/08/28/book-15-little-women-by-louisa-may-alcott/">Little Women &#8211; Louise May Alcott (1862)</a></li>
+<li>Eat, Pray, Love &#8211; Elizabeth Gilbert (2006)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/08/book-17-water-for-elephants-by-sara-gruen/">Water for Elephants &#8211; Sara Gruen (2006)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/25/book-18-the-notebook-by-nicholas-sparks/">The Notebook &#8211; Nicholas Sparks (1996)</a></li>
+<li>Life of Pi &#8211; Yann Martel (2001)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/17/book-20-the-hitchhikers-guide-to-the-galaxy-by-douglas-adams/">The Hitchhiker&#8217;s Guide to the Galaxy &#8211; Douglas Adams (1979)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/06/book-21-wuthering-heights-by-emily-bronte/">Wuthering Heights &#8211; Emily Bronte (1847)</a></li>
+<li>Where the Sidewalk Ends &#8211; Shel Silverstein (1947)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/20/book-23-the-perks-of-being-a-wallflower-by-stephen-chbosky/">The Perks of Being a Wallflower &#8211; Stephen Chbosky (1999)</a></li>
+<li>Insurgent &#8211; Veronica Roth (2012)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/29/book-25-the-curious-incident-of-the-dog-in-the-night-time-by-mark-haddon/">The Curious Incident of the Dog in the Night-Time by Mark Haddon (2003)</a></li>
+<li>Gone with the Wind &#8211; Margaret Mitchell (1936)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/12/book-27-frankenstein-by-mary-shelley/">Frankenstein &#8211; Mary Shelley (1818)</a></li>
+<li>My Sister&#8217;s Keeper &#8211; Jodi Picoult (2004)</li>
+<li>A Thousand Splendid Suns &#8211; Khaled Hosseini (2007)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/01/book-30-the-shining-by-stephen-king/">The Shining &#8211; Stephen King (1977)</a></li>
+<li>The Maze Runner &#8211; James Dashner (2009)</li>
+<li>Holes &#8211; Louis Sachar (1998)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/12/21/book-33-sense-and-sensibility-by-jane-austen/">Sense and Sensibility &#8211; Jane Austen (1811)</a></li>
+<li>The Host &#8211; Stephanie Meyer (2008)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/04/07/book-35-me-before-you-by-jojo-moyes/">Me Before You &#8211; Jojo Moyes (2012)</a></li>
+<li>Bridget Jones&#8217;s Diary &#8211; Helen Fielding (1996)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/20/book-37-miss-peregrines-home-for-peculiar-children-by-ransom-riggs/">Miss Peregrine&#8217;s Home for Peculiar Children &#8211; Ransom Riggs (2011)</a></li>
+<li>The Picture of Dorian Gray &#8211; Oscar Wilde (1890)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/13/book-39-the-secret-garden-by-frances-hodgson-burnett/">The Secret Garden &#8211; Frances Hodgson Burnett (1911)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/06/13/book-40-into-the-wild-by-jon-krakauer/">Into the Wild &#8211; Jon Krakauer (1996)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/15/book-41-the-glass-castle-by-jeannette-walls/">The Glass Castle &#8211; Jeannette Walls (2005)</a></li>
+<li>The Devil Wears Prada &#8211; Lauren Weisberger (2003)</li>
+<li>A Tale of Two Cities &#8211; Charles Dickens (1859)</li>
+<li>Paper Towns &#8211; John Green (2008)</li>
+<li>Allegiant &#8211; Veronica Roth (2013)</li>
+<li>Steve Jobs &#8211; Walter Isaacson (2011)</li>
+<li>Bossypants &#8211; Tina Fey (2011)</li>
+<li>City of Glass &#8211; Cassandra Clare (2009)</li>
+<li>All the Light We Cannot See &#8211; Anthony Doerr (2014)</li>
+<li>The Princess Bride &#8211; William Goldman (1973)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/28/book-51-eleanor-park-by-rainbow-rowell/">Eleanor &amp; Park &#8211; Rainbow Rowell (2013)</a></li>
+<li>A Clash of Kings &#8211; George R.R. Martin (1998)</li>
+<li>Fifty Shades Darker &#8211; E.L. James (2011)</li>
+<li>Outlander &#8211; Diana Gabaldon (1991)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/18/book-55-the-count-of-monte-cristo-by-alexandre-dumas/">The Count of Monte Cristo &#8211; Alexandre Dumas (1844)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/09/book-56-the-adventures-of-tom-sawyer-by-mark-twain/">The Adventures of Tom Sawyer &#8211; Mark Twain (1876)</a></li>
+<li>Tuesday with Morrie &#8211; Mitch Albom (1997)</li>
+<li>The Selection &#8211; Kiera Cass (2012)</li>
+<li>A Time to Kill &#8211; John Grisham (1989)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/24/book-60-thirteen-reasons-why-by-jay-asher/">Thirteen Reasons Why &#8211; Jay Asher (2007)</a></li>
+<li>Fifty Shades Freed &#8211; E.L. James (2012)</li>
+<li>One Hundred Years of Solitude &#8211; Gabriel Marquez (1967)</li>
+<li>Room &#8211; Emma Donoghue (2010)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/03/book-64-catch-22-by-joseph-heller/">Catch-22 &#8211; Joseph Heller (1961)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/11/65-if-i-stay-by-gayle-forman/">If I Stay &#8211; Gayle Forman (2009)</a></li>
+<li>The Grapes of Wrath &#8211; John Steinbeck (1939)</li>
+<li>The Road &#8211; Cormac McCarthy (2006)</li>
+<li>Les Miserables &#8211; Victor Hugo (1862)</li>
+<li>Unbroken: A World War II Story &#8211; Laura Hillenbrand (2010)</li>
+<li>The Sea of Monsters &#8211; Rick Riordan (2006)</li>
+<li>American Gods &#8211; Neil Gaiman (2001)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/02/book-72-the-martian-by-andy-weir/">The Martian &#8211; Andy Weird (2012)</a></li>
+<li>It &#8211; Stephen King (1986)</li>
+<li>Freakonomics &#8211; Steven Levitt (2005)</li>
+<li>The Battle of the Labyrinth &#8211; Rick Riordan (2008)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/08/11/book-76-anne-of-green-gables-by-l-m-montgomery/">Anne of Green Gables &#8211; L.M. Montgomery (1908)</a></li>
+<li>Confessions of a Shopaholic &#8211; Sophie Kinsella (2000)</li>
+<li>A Walk to Remember &#8211; Nicholas Sparks (1999)</li>
+<li>Matched &#8211; Ally Condie (2010)</li>
+<li>The Two Towers &#8211; J.R.R. Tolkien (1954)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/15/book-81-dune-by-frank-herbert/">Dune &#8211; Frank Herbert (1965)</a></li>
+<li>A Storm of Swords &#8211; George R.R. Martin (2000)</li>
+<li>The Sisterhood of the Traveling Pants &#8211; Ann Brashares (2001)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/06/15/book-84-before-i-fall-by-lauren-oliver/">Before I Fall &#8211; Lauren Oliver (2010)</a></li>
+<li>The Tipping Point &#8211; Malcolm Gladwell (2000)</li>
+<li>Lolita &#8211; Vladmir Nabokov (1955)</li>
+<li>The Return of the King &#8211; J.R.R. Tolkien (1955)</li>
+<li>The Titan&#8217;s Curse &#8211; Rick Riordan (2007)</li>
+<li>Me Talk Pretty One Day &#8211; David Sedaris (2000)</li>
+<li>Charlie and the Chocolate Factory &#8211; Roald Dahl (1964)</li>
+<li>The Last Olympian &#8211; Rick Riordan (2009)</li>
+<li>The Pillars of Earth &#8211; Ken Follett (1989)</li>
+<li>Girl with a Pearl Earring &#8211; Tracy Chevalier (1999)</li>
+<li>One Flew Over the Cuckoo&#8217;s Nest &#8211; Ken Kasey (1962)</li>
+<li>Wicked &#8211; Gregory Maguire (1995)</li>
+<li>Emma &#8211; Jane Austen (1815)</li>
+<li>Middlesex &#8211; Jeffrey Eugenides (2002)</li>
+<li>Cinder &#8211; Marissa Meyer (2012)</li>
+<li>The Goldfinch &#8211; Donna Tartt (2013)</li>
+<li>The Name of the Wind &#8211; Patrick Rothfuss (2007)<img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>The Lost Hero &#8211; Rick Riordan (2010)</li>
+<li>The Night Circus &#8211; Erin Morgenstern (2011)</li>
+<li>The Memory Keeper&#8217;s Daughter &#8211; Kim Edwards (2005)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/22/book-104-ready-player-one-by-ernest-cline/">Ready Player One &#8211; Ernest Cline (2011)</a></li>
+<li>A Feast of Crows &#8211; George R.R. Martin (2005)</li>
+<li>Anna Karenina &#8211; Leo Tolstoy (1878)</li>
+<li>Deception Point &#8211; Dan Brown (2002)</li>
+<li>The Firm &#8211; John Grisham (1991)</li>
+<li>The Stand &#8211; Stephen King (1978)</li>
+<li>Wonder &#8211; R.J. Palacio (2012)</li>
+<li>Big Little Lies &#8211; Liane Moriarty (2014)</li>
+<li>A Clockwork Orange &#8211; Anthony Burgess (1962)</li>
+<li>Hush, Hush &#8211; Becca Fitzpatrick (2009)</li>
+<li>Uglies &#8211; Scott Westerfield (2005)</li>
+<li>Educated &#8211; Tara Westover (2018)</li>
+<li>Crime and Punishment &#8211; Fyodor Dostoyevsky (1866)</li>
+<li>Matilda &#8211; Roald Dahl (1988)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/31/book-118-beautiful-creatures-by-kami-garcia/">Beautiful Creatures &#8211; Kami Garcia (2009)</a></li>
+<li>Divine Secrets of the Ya-Ya Sisterhood &#8211; Rebecca Wells (1996)</li>
+<li>Digital Fortress &#8211; Dan Brown (1998)</li>
+<li>Dear John &#8211; Nicholas Sparks (2006)</li>
+<li>Vampire Academy &#8211; Richelle Mead (2007)</li>
+<li>The Bell Jar &#8211; Sylvia Plath (1963)</li>
+<li>Wild: From Lost to Found &#8211; Cheryl Strayed (2012)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/31/book-125-the-shack-by-william-paul-young/">The Shack &#8211; W. Paul Young (2007)</a></li>
+<li>Beautiful Disaster &#8211; Jamie McGuire (2011)</li>
+<li>The Red Tent &#8211; Anita Diamant (1997)</li>
+<li>The Last Song &#8211; Nicholas Sparks (2009)</li>
+<li>Dead Until Dark &#8211; Charlaine Harris (2001)</li>
+<li>A Dance with Dragons &#8211; George R.R. Martin (2011)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/22/book-131-the-immortal-life-of-henrietta-lacks-by-rebecca-skloot/">The Immortal Life of Henrietta Lacks &#8211; Rebecca Skloot (2010)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/21/book-132-siddhartha-by-hermann-hesse/">Siddhartha &#8211; Hermann Hesse (1922)</a></li>
+<li>The Guernsey Literary and Potato Peel Pie Society &#8211; Mary Ann Shaffer (2008)</li>
+<li>Something Borrowed &#8211; Emily Giffin (2004)</li>
+<li>Angela&#8217;s Ashes &#8211; Frank McCourt (1996)</li>
+<li>Persuasion &#8211; Jane Austen (1817)</li>
+<li>Dark Places &#8211; Gillian Flynn (2009)</li>
+<li>Watchmen &#8211; Alan Moore (1987)</li>
+<li>Fangirl &#8211; Rainbow Rowell (2013)</li>
+<li>The Color Purple &#8211; Alice Walker (1982)</li>
+<li>One for the Money &#8211; Janet Evanovich (1994)</li>
+<li>Fallen &#8211; Lauren Kate (2009)</li>
+<li>The Gunslinger &#8211; Stephen King (1982)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/25/book-144-interview-with-the-vampire-by-anne-rice/">Interview with a Vampire &#8211; Anne Rice (1976)</a></li>
+<li>The Nightingale &#8211; Kristin Hannah (2015)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2020/01/30/book-146-fight-club-chuck-palahniuk/">Fight Club &#8211; Chuck Palahniuk (2005)</a></li>
+<li>The Other Boleyn Girl &#8211; Philippa Gregory (2001)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2020/02/09/book-148-sharp-objects-by-gillian-flynn/">Sharp Objects &#8211; Gillian Flynn (2006)</a></li>
+<li>The Husband&#8217;s Secret &#8211; Liane Moriarty (2013)</li>
+<li>Bared to You &#8211; Sylvia Day (2012)</li>
+<li>Marley and Me &#8211; John Grogan (2005)</li>
+<li>Throne of Glass &#8211; Sarah J Maas (2012)</li>
+<li>City of Fallen Angels &#8211; Cassandra Clare (2011)</li>
+<li>Outliers &#8211; Malcolm Gladwell (2008)</li>
+<li>Blink &#8211; Malcolm Gladwell (2007)</li>
+<li>The Devil in the White City &#8211; Erik Larson (2003)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2020/01/09/book-157-misery-by-stephen-king/">Misery &#8211; Stephen King (1987)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Marked &#8211; P.C. Cast and Kristin Cast (2007)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/13/book-159-shiver-by-maggie-stiefvater/">Shiver &#8211; Maggie Stiefvater (2009)</a></li>
+<li>The Silence of the Lambs &#8211; Thomas Harris (1988)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/17/book-161-the-art-of-racing-in-the-rain-by-garth-stein/">The Art of Racing in the Rain &#8211; Garth Stein (2008)</a></li>
+<li>Atonement &#8211; Ian McEwan (2001)</li>
+<li>The Cuckoo&#8217;s Calling &#8211; Robert Galbraith (2013)</li>
+<li>Inferno &#8211; Dan Brown (2013)</li>
+<li>An Abundance of Katherines &#8211; John Green (2006)</li>
+<li>The Ocean at the End of the Lane &#8211; Neil Gaiman (2013)</li>
+<li>Bridge to Terabithia &#8211; Katherin Paterson (1977)</li>
+<li>Flowers for Algernon &#8211; Daniel Keyes (1959)</li>
+<li>Delirium &#8211; Lauren Oliver (2011)</li>
+<li>Red Queen &#8211; Victoria Aveyard (2015)</li>
+<li>How to Win Friends and Influence People &#8211; Dale Carnegie (1936)</li>
+<li>The Scorch Trials &#8211; James Dashner (2010)</li>
+<li>The Boy in the Striped Pajamas &#8211; John Boyne (2006)</li>
+<li>The 7 Habits of Highly Effective People &#8211; Stephen Covey (1989)</li>
+<li>Good Omens &#8211; Terry Pratchett and Neil Gaiman (1990)</li>
+<li>Sarah&#8217;s Key &#8211; Tatiana Rosnay (2006)</li>
+<li>Never Let Me Go &#8211; Kazuo Ishiguro (2005)</li>
+<li>World War Z &#8211; Max Brooks (2006)</li>
+<li>East of Eden &#8211; John Steinbeck (1952)</li>
+<li>The Mark of Athena &#8211; Rick Riordan (2012)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/13/book-181-the-graveyard-book-by-neil-gaiman/">The Graveyard Book &#8211; Neil Gaiman (2008)</a></li>
+<li>Rebecca &#8211; Daphne du Maurier (1938)</li>
+<li>City of Lost Souls &#8211; Cassandra Clare (2012)</li>
+<li>The Bourne Identity &#8211; Robert Ludlum (1980)</li>
+<li>The Shadow of the Wind &#8211; Carlos Zafon (2001)</li>
+<li>Legend &#8211; Marie Lu (2011)</li>
+<li>We Were Liars &#8211; E. Lockhard (2014)</li>
+<li>A Man Called Ove &#8211; Fredrik Backman (2012)</li>
+<li>Is Everything Hanging Out Without Me? &#8211; Mindy Kaling (2011)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/02/book-190-along-came-a-spider-by-james-patterson/">Along Came a Spider &#8211; James Patterson (1993)</a></li>
+<li>The Rosie Project &#8211; Graeme Simsion (2013)</li>
+<li>The Client &#8211; John Grisham (1993)</li>
+<li>The Son of Neptune &#8211; Rick Riordan (2011)</li>
+<li>The Tales of Beedle the Bard &#8211; J.K. Rowling (2007)</li>
+<li>Love in the Time of Cholera &#8211; Gabriel Marquez (1985)</li>
+<li>Extremely Loud and Incredibly Close &#8211; Jonathan Foer (2005)</li>
+<li>Neverwhere &#8211; Neil Gaiman (2003)</li>
+<li>The Nanny Diaries &#8211; Emma McLaughlin (2002)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/07/book-199-treasure-island-by-robert-louis-stevenson/">Treasure Island &#8211; Robert Stevenson (1882)</a></li>
+<li>11/22/63 &#8211; Stephen King (2011) <img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>A Child Called &#8220;It&#8221; &#8211; David Pelzer (1995)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/10/book-202-a-tree-grows-in-brooklyn-by-betty-smith/">A Tree Grows in Brooklyn &#8211; Betty Smith (1943)</a></li>
+<li>The Light Between Oceans &#8211; M.L. Stedman (2012)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/17/book-204-foundation-by-isaac-asimov/">Foundation &#8211; Isaac Asimov (1951)</a></li>
+<li>Watership Down &#8211; Richard Adams (1972)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/08/15/book-206-the-magicians-nephew-by-c-s-lewis/">The Magician&#8217;s Nephew &#8211; C.S. Lewis (1955)</a></li>
+<li>Yes Please &#8211; Amy Poehler (2014)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/19/book-208-the-5th-wave-by-rick-yancey/">The 5th Wave &#8211; Rick Yancey (2013)</a></li>
+<li>Graceling &#8211; Kristin Cashore (2008)</li>
+<li>The Sun Also Rises &#8211; Ernest Hemingway (1926)</li>
+<li>Can You Keep a Secret? &#8211; Sophie Kinsella (2005)</li>
+<li>The Wise Man&#8217;s Fear &#8211; Patrick Rothfuss (2011)</li>
+<li>Running with Scissors &#8211; Augusten Burroughs (2002)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/12/book-214-i-know-why-the-caged-bird-sings-by-maya-angelou/">I Know Why the Caged Bird Sings &#8211; Maya Angelou (1969)</a></li>
+<li>Into the Air &#8211; Jon Krakauer (1997)</li>
+<li>Atlas Shrugged &#8211; Ayn Rand (1957)</li>
+<li>The Pelican Brief &#8211; John Grisham (1992)</li>
+<li>Inheart &#8211; Cornelia Funk (2003)</li>
+<li>James and the Giant Peach &#8211; Roald Dahl (1961)</li>
+<li>Anna and the French Kiss &#8211; Stephanie Perkins (2010)</li>
+<li>Pet Sematary &#8211; Stephen King (1983)</li>
+<li>Snow Flower and the Secret Fan &#8211; Lisa See (2005)</li>
+<li>The Elite &#8211; Kiera Cass (2013)</li>
+<li>Where&#8217;d You Go, Bernadette &#8211; Maria Semple (2012)</li>
+<li>Cutting for Stone &#8211; Abraham Verghese (2009)</li>
+<li>Orphan Train &#8211; Chrstina Kline (2013)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/25/book-227-the-eye-of-the-world-by-robert-jordan/">The Eye of the World &#8211; Robert Jordan (1990)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/05/28/book-228-the-wonderful-wizard-of-oz-by-l-frank-baum/">The Wonderful Wizard of Oz &#8211; Frank L. Baum (1990)</a></li>
+<li>Three Cups of Tea &#8211; Greg Mortenson (2006)</li>
+<li>P.S. I Love You &#8211; Cecelia Ahern (2003)</li>
+<li>Diary of a Wimpy Kid &#8211; Jeff Kinney (2004)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/30/book-232-where-the-red-fern-grows-by-wilson-rawls/">Where the Red Ferns Grow &#8211; Wilson Rawls (1961)</a></li>
+<li>The Lucky One &#8211; Nicholas Sparks (2008)</li>
+<li>Shadow Kiss &#8211; Richelle Mead (2008)</li>
+<li>Like Water for Chocolate &#8211; Laura Esquivel (1989)</li>
+<li>Safe Haven &#8211; Nicholas Sparks (2010)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/11/book-237-the-strange-case-of-dr-jekyll-and-mr-hyde-by-robert-louis-stevenson/">The Strange Case of Dr. Jekyll and Mr. Hyde &#8211; Robert Stevenson (1886)</a></li>
+<li>The BFG &#8211; Roald Dahl (1982)</li>
+<li>Cat&#8217;s Cradle &#8211; Kurt Vonnegut (1963)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/07/book-240-the-hunt-for-red-october-by-tom-clancy/">The Hunt for Red October &#8211; Tom Clancy (1984)</a></li>
+<li>The Subtle Knife &#8211; Philip Pullman (1997)</li>
+<li>Under the Tuscan Sun &#8211; Frances Mayes (1996)</li>
+<li>Kiss the Girls &#8211; James Patterson (1995)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/06/book-244-stardust-by-neil-gaiman/">Stardust &#8211; Neil Gaiman (1998)</a></li>
+<li>I am Malala &#8211; Malala Yousafzai (2012)</li>
+<li>Who Moved My Cheese? &#8211; Spencer Johnson (1998)</li>
+<li>I am Number Four &#8211; Pittacus Lore (2010)</li>
+<li>Will Grayson, Will Grayson &#8211; John Green (2010)</li>
+<li>The Godfather &#8211; Mario Puzo (1969)</li>
+<li>Reflected in You &#8211; Sylvia Day (2012)</li>
+<li>The Death Cure &#8211; James Dashner (2011)</li>
+<li>The Thorn Birds &#8211; Colleen McCullough (1977)</li>
+<li>She&#8217;s Come Undone &#8211; Wally Lamb (1992)</li>
+<li>Frostbite &#8211; Richelle Mead (2008)</li>
+<li>A Walk in the Woods &#8211; Bill Bryson (1997)</li>
+<li>The Secret &#8211; Rhonda Byrne (2006)</li>
+<li>The Final Empire &#8211; Brandon Sanderson (2006)</li>
+<li>Oliver Twist &#8211; Charles Dickens (1838)</li>
+<li>The One &#8211; Kiera Cass (2014)</li>
+<li>The Crucible &#8211; Arther Miller (1953)</li>
+<li>The Unbearable Lightness of Being &#8211; Milan Kundera (1984)</li>
+<li>Do Androids Dream of Electric Sheep? &#8211; Philip K. Dick (1968)</li>
+<li>A Discovery of Witches &#8211; Deborah Harkness (2011)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/12/08/book-264-othello-by-william-shakespeare/">Othello &#8211; William Shakespeare (1603)</a></li>
+<li>The Casual Vacancy &#8211; J.K. Rowling (2012)</li>
+<li>The Fountainhead &#8211; Ayn Rand (1943)</li>
+<li>I Know This Much is True &#8211; Wally Lamb (1998)</li>
+<li>Nineteen Minutes &#8211; Jodi Picoult (2007)</li>
+<li>Salem&#8217;s Lot &#8211; Stephen King (1975)</li>
+<li>The Screwtape Letters &#8211; C.S. Lewis (1942)</li>
+<li>A Court of Thorns and Roses &#8211; Sarah J Maas (2015)</li>
+<li>The Red Pyramid &#8211; Rick Riordan (2010)</li>
+<li>The Last Lecture &#8211; Randy Pausch (2008)</li>
+<li>White Oleander &#8211; Janet Fitch (1999)</li>
+<li>Beloved &#8211; Toni Morrison (1987)</li>
+<li>Good in Bed &#8211; Jennifer Weiner (2001)</li>
+<li>Sill Alice &#8211; Lisa Genova (2001)</li>
+<li>Stargirl &#8211; Jerry Spinelli (2000)</li>
+<li>Fear and Loathing in Las Vegas &#8211; Hunter Thompson (1971)</li>
+<li>1st to Die &#8211; James Patterson (2005)</li>
+<li>A Prayer to Owen Meany &#8211; John Irving (1989)</li>
+<li>The Importance of Being Earnest &#8211; Oscar Wilde (1985)</li>
+<li>One Day &#8211; David Nicholls (2009)</li>
+<li>The Witches &#8211; Roald Dahl (1983)</li>
+<li>Daughter of Smoke &amp; Bone &#8211; Laini Taylor (2011)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/03/book-286-the-murder-on-the-orient-express-by-agatha-christie/">Murder on the Orient Express &#8211; Agatha Christie (1934)</a></li>
+<li>Blood Promise &#8211; Richelle Mead (2009)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/06/04/book-288-hatchet-by-gary-paulsen/">Hatchet &#8211; Gary Paulsen (1986)</a></li>
+<li>Northanger Abbey &#8211; Jane Austen (1817)</li>
+<li>Dark Lover &#8211; J.R. Ward (2005)</li>
+<li>The Color of Magic &#8211; Terry Pratchett (1983)</li>
+<li>What Alice Forgot &#8211; Liane Moriarty (2009)</li>
+<li>Perfume: The Story of a Murderer &#8211; Patrick Suskind (1985)</li>
+<li>And the Mountains Echoed &#8211; Khaled Hosseini (2012)</li>
+<li>John Adams &#8211; David McCullough (2001)</li>
+<li>Norwegian Wood &#8211; Haruki Murakami (1987)</li>
+<li>A Study in Scarlet &#8211; Arthur Conan Doyle (1887)</li>
+<li>Heaven is for Real &#8211; Todd Burpo (2010)</li>
+<li>The New Drawing on the Right Side of the Brain &#8211; Betty Edwards (1999)</li>
+<li>The Name of the Rose &#8211; Umberto Eco (1980)<img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>When Breath Becomes Air &#8211; Paul Kalanithi (2016)</li>
+<li>Mansfield Park &#8211; Jane Austen (1814)</li>
+<li>Crescendo &#8211; Becca Fitzpatrick (2010)</li>
+<li>Brisingr &#8211; Christopher Paolini (2008)</li>
+<li>The Pact &#8211; Jodi Picould (1998)</li>
+<li>Evermore &#8211; Alyson Noel (2009)</li>
+<li>Stranger in a Strange Land &#8211; Robert Heinlein (1961)</li>
+<li>Spirit Bound &#8211; Richelle Mead (2010)</li>
+<li>Scarlet &#8211; Marissa Meyer (2013)</li>
+<li>Man&#8217;s Search for Meaning  &#8211; Viktor Frankl (1946)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/12/09/book-311-the-art-of-war-by-sun-tzu/">The Art of War &#8211; Sun Tzu (500 BC)</a></li>
+<li>The Thirteenth Tale &#8211; Diane Setterland (2006)</li>
+<li>Storm Front &#8211; Jim Butcher (2000)</li>
+<li>The Three Musketeers &#8211; Alexandre Dumas (1844)</li>
+<li>The Amber Spyglass -Philip Pullman (2000)</li>
+<li>The Runaway Jury &#8211; John Grisham (1996)</li>
+<li>Before I Go to Sleep &#8211; S.J. Watson (2011)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/06/11/318-fried-green-tomatoes-at-the-whistle-stop-cafe-by-fannie-flagg/">Fried Green Tomatoes at the Whistle Shop Café &#8211; Fannie Flagg (1987)</a></li>
+<li>Last Sacrifice &#8211; Richelle Mead (2010)</li>
+<li>Everything, Everything &#8211; Nicola Yoon (2015)</li>
+<li>Things Fall Apart &#8211; Chinua Achebe (1958)</li>
+<li>Dragonfly in Amber &#8211; Diana Gabaldon (1992)</li>
+<li>A Streetcar Names Desire &#8211; Tennessee Williams (1947)</li>
+<li>Where She Went &#8211; Gayle Forman (2011)</li>
+<li>In the Woods &#8211; Tara French (2007)</li>
+<li>Mere Christianity &#8211; C.S. Lewis (1952)</li>
+<li>The Story of Art &#8211; E.H. Gombrich (1950)</li>
+<li>City of Heavenly Fire &#8211; Cassandra Clare (2014)</li>
+<li>V for Vendetta &#8211; Alan Moore (1990)</li>
+<li>A Short History of Nearly Everything &#8211; Bill Bryson (2003)</li>
+<li>The Undomestic Goddess &#8211; Sophie Kinsella (2005)</li>
+<li>Crown of Midnight &#8211; Sarah J Maas (2013)</li>
+<li>Shatter Me &#8211; Taherah Mafi (2011)</li>
+<li>Hopeless &#8211; Colleen Hoover (2012)</li>
+<li>The Paris Wife &#8211; Paula McLain (2011)</li>
+<li>I, Robot &#8211; Isaac Asimov (1950)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2020/01/24/book-337-station-eleven-by-emily-st-john-mandel/">Station Eleven &#8211; Emily St. John Mandel (2014)</a></li>
+<li>Rich Dad, Poor Dad &#8211; Robert Kiyosaki (1997)</li>
+<li>Kafka on the Shore &#8211; Haruki Murakami (2002)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/16/book-340-odd-thomas-by-dean-koontz/">Odd Thomas &#8211; Dean Koontz (2003)</a></li>
+<li>Dead to the World &#8211; Charlaine Harris (2004)</li>
+<li>A Farewell to Arms &#8211; Ernest Hemingway (1929)</li>
+<li>Little House on the Prairie &#8211; Laura Wilder (1935)</li>
+<li>Defending Jacob &#8211; William Landay (2012)</li>
+<li>Neuromancer &#8211; William Gibson (1984)</li>
+<li>The Historian &#8211; Elizabeth Kostova (2005)</li>
+<li>For Whom the Bell Tolls &#8211; Ernest Hemingway (1940)</li>
+<li>Perfect Chemistry &#8211; Simone Ekleles (2008)</li>
+<li>Silence &#8211; Becca Fitzpatrick (2011)</li>
+<li>War and Peace &#8211; Leo Tolstoy (1868)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/12/19/book-351-peter-pan-by-j-m-barrie/">Peter Pan &#8211; J.M/ Barrie (1904)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Betrayed &#8211; P.C. Cast and Kristin Cast (2007)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/03/01/book-353-the-secret-history-by-donna-tartt/">The Secret History &#8211; Donna Tartt (1992)</a></li>
+<li>Where the Heart is &#8211; Billie Letts (1998)</li>
+<li>Dress Your Family in Corduroy and Denim &#8211; David Sedaris (2004)</li>
+<li>Just Listen &#8211; Sarah Dessen (2006)</li>
+<li>The Invention of Wings &#8211; Sue Monk Kidd (2014)</li>
+<li>Living Dead in Dallas &#8211; Charlaine Harris (2002)</li>
+<li>After You &#8211; Jojo Moyes (2015)</li>
+<li>Naked &#8211; David Sedaris (1997)</li>
+<li>Go Ask Alice &#8211; Anonymous (1971)</li>
+<li>The 5 Love Languages &#8211; Gary Chapman (1990)</li>
+<li>Maus 1: A survivor&#8217;s tale &#8211; Art Spiegelman (1985)</li>
+<li>Bel Canto &#8211; Ann Patchett (2001)</li>
+<li>Fall of Giants &#8211; Ken Follett (2010)</li>
+<li>The Princess Diaries &#8211; Meg Cabot (2000)</li>
+<li>A Brief History of Time &#8211; Stephen Hawking (1987)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/15/book-368-robinson-crusoe-by-daniel-defoe/">Robinson Crusoe &#8211; Daniel Defoe (1719)</a></li>
+<li>Pretties &#8211; Scott Westerfield (2005)</li>
+<li>Cress &#8211; Marissa Meyer (2014)</li>
+<li>The Things They Carried &#8211; Tim O&#8217;Brien (1990)</li>
+<li>Voyager &#8211; Diana Gabaldon (1993)</li>
+<li>Little Fires Everywhere &#8211; Celeste Ng (2017)</li>
+<li>Tess of the D&#8217;Urbervilles &#8211; Thomas Hardy (1891)</li>
+<li>Guns, Germs, and Steel &#8211; Jared Diamond (1997)</li>
+<li>Little Bee &#8211; Chris Cleave (2008)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/05/book-377-black-beauty-by-anne-sewell/">Black Beauty &#8211; Anne Sewell (1877)</a></li>
+<li>The Green Mile &#8211; Stephen King (1996)</li>
+<li>The Hiding Place &#8211; Corrie Boom (1971)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Chosen &#8211; P.C. Cast and Kristin Cast (2008)</a></li>
+<li>The Power of Habit &#8211; Charles Duhigg (2011)</li>
+<li>Madame Bovary &#8211; Gustave Flaubert (1856)</li>
+<li>The Phantom Tollbooth &#8211; Norton Juster (1961)</li>
+<li>The Namesake &#8211; Jhumpa Lahiri (2003)</li>
+<li>The Woman in Cabin 10 &#8211; Ruth Ware (2016)</li>
+<li>The Good Earth &#8211; Pearl Buck (1931)</li>
+<li>The Prince &#8211; Niccolo Machiavelli (1513)</li>
+<li>Club Dead &#8211; Charlaine Harris (2003)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Untamed &#8211; P.C. Cast and Kristin Cast (2008)</a></li>
+<li>The No. 1 Ladies&#8217; Detective Agency &#8211; Alexander Smith (1998)</li>
+<li>Snow Crash &#8211; Neal Stephenson (1992)</li>
+<li>The Way of Kings &#8211; Brandon Sanderson (2010)</li>
+<li>Message in a Bottle &#8211; Nicholas (1998)</li>
+<li>The House of Hades &#8211; Rick Riordan (2013)</li>
+<li>The Virgin Suicides &#8211; Jeffrey Eugenides (1993)</li>
+<li>The God of Small Things &#8211; Roy Arundhati (1997)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/02/07/book-397-cold-mountain-by-charles-frazier/">Cold Mountain &#8211; Charles Frazier (1997)</a></li>
+<li>Easy &#8211; Tammara Webber (2012)</li>
+<li>Pandemonium &#8211; Lauren Oliver (2012)</li>
+<li>The Well of Ascension &#8211; Brandon Sanderson (2007)<img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>Killing Floor &#8211; Lee Child (1997)</li>
+<li>A Confederacy of Dunces &#8211; John Toole (1980)</li>
+<li>The Brief Wondrous Life of Oscar Wao &#8211; Junot Diaz (2007)</li>
+<li>The War of the Worlds &#8211; H.G. Wells (1898)</li>
+<li>Little House in the Big Woods &#8211; Laura Wilder (1932)</li>
+<li>2001: A Space Odyssey &#8211; Arthur C. Clarke (1968)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/01/06/book-407-the-kitchen-house-by-kathleen-grissom/">The Kitchen House &#8211; Kathleen Grissom (2010)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/08/book-408-the-angel-experiment-by-james-patterson/">The Angel Experiment &#8211; James Patterson (2005)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/18/book-409-the-hound-of-the-baskervilles-by-sir-arthur-conan-doyle/">The Hound of the Baskervilles &#8211; Arthur Conan Doyle (1902)</a></li>
+<li>The Clan of the Cave Bear &#8211; Jean Auel (1980)</li>
+<li>Breakfast of Champions &#8211; Kurt Vonnegut (1973)</li>
+<li>Remember Me? &#8211; Sophie Kinsella (2008)</li>
+<li>A Million Little Pieces &#8211; James Frey (2003)</li>
+<li>The God Delusion &#8211; Richard Dawkins (2006)</li>
+<li>Tuck Everlasting &#8211; Natalie Babbitt (1975)</li>
+<li>The Purpose Driven Life &#8211; Rick Warren (2002)</li>
+<li>I&#8217;ll Give You the Sun &#8211; Jandy Nelson (2014)</li>
+<li>Speaker of the Dead &#8211; Orson Scott Card (1986)</li>
+<li>To All the Boys I&#8217;ve Loved Before &#8211; Jenny Han (2014)</li>
+<li>American Psycho &#8211; Bret Ellis (1991)</li>
+<li>The Truth About Forever &#8211; Sarah Dessen (2004)</li>
+<li>The Brothers Karamazov &#8211; Fyodor Dostoyevsky (1880)</li>
+<li>The Raven Boys &#8211; Maggie Stiefvater (2012)</li>
+<li>The Andromeda Strain &#8211; Michael Crichton (1969)</li>
+<li>Torment &#8211; Lauren Kate (2010)</li>
+<li>All the Bright Places &#8211; Jennifer Niven (2015)</li>
+<li>Obsidian &#8211; Jennifer Armentrout (2011)</li>
+<li>The Absolutely True Diary of a Part-Time Indian &#8211; Sherman Alexie (2007)</li>
+<li>Crossed &#8211; Ally Condie (2011)</li>
+<li>The Restaurant at the End of the Universe &#8211; Douglas Adams (1980)</li>
+<li>Fast Food Nation &#8211; Eric Schlosser (2001)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/22/book-432-midnight-in-the-garden-of-good-and-evil-by-john-berendt/">Midnight in the Garden of Good and Evil &#8211; John Berendt (1994)</a></li>
+<li>The Magicians &#8211; Lev Grossman (2009)</li>
+<li>Everything I Never Told You &#8211; Celeste Ng (2014)</li>
+<li>The Hero of Ages &#8211; Brandon Sanderson (2008)</li>
+<li>Something Blue &#8211; Emily Giffin (2005)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/24/book-437-candide-by-voltaire/">Candide &#8211; Voltaire (1759)</a></li>
+<li>The World According to Garp &#8211; John Irving (1978)</li>
+<li>A Court of Mist and Fury &#8211; Sarah J Maas (2016)</li>
+<li>Go Set a Watchman &#8211; Harper Lee (2015)</li>
+<li>Thinking, Fast and Slow &#8211; Daniel Kahneman (2011)</li>
+<li>Slammed &#8211; Colleen Hoover (2012)</li>
+<li>Shadow and Bone &#8211; Leigh Bardugo (2012)</li>
+<li>Postmortem &#8211; Patricia Cornwell (1990)</li>
+<li>Cujo &#8211; Stephen King (1981)</li>
+<li>The Great Hunt &#8211; Robert Jordan (1990)</li>
+<li>Hillbilly Elegy &#8211; J.D. Vance (2016)</li>
+<li>Cloud Atlas &#8211; David Mitchell (2004)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/28/book-449-left-behind-by-tim-lahaye-and-jerry-jenkins/">Left Behind &#8211; Tim LaHaye and Jerry Jenkins (1995)</a></li>
+<li>Oryx and Crake &#8211; Margaret Atwood (2003)</li>
+<li>A Wizard of Earthsea &#8211; Ursula LqGuin (1968)</li>
+<li>Dead as a Doornail &#8211; Charlaine Harris (2005)</li>
+<li>Assassin&#8217;s Apprentice &#8211; Robin Hobb (1995)</li>
+<li>It&#8217;s Kind of a Funny Story &#8211; Ned Vizzini (2006)</li>
+<li>Wall and Peace &#8211; Banksy (1988)</li>
+<li>In Her Shoes &#8211; Jennifer Weiner (2002)</li>
+<li>The Walking Dead Vol. 1 &#8211; Robert Kirkman (2004)</li>
+<li>The Master and Margarita &#8211; Mikhail Bulgakov (1967)</li>
+<li>The Mysterious Affair at Styles &#8211; Agatha Christie (1920)</li>
+<li>The Trial &#8211; Franz Kafka (1925)</li>
+<li>Mrs. Dalloway &#8211; Virginia Woolf (1923)</li>
+<li>Eleanor Oliphant is Completely Fine &#8211; Gail Honeyman (2017)</li>
+<li>Heir of Fire &#8211; Sarah J Maas (2014)</li>
+<li>Breakfast at Tiffany&#8217;s &#8211; Truman Capote (1958)</li>
+<li>The Prophet &#8211; Kahlil Gibran (1923)</li>
+<li>Milk and Honey &#8211; Rupi Kaur (2014)</li>
+<li>Batman: Year One &#8211; Frank Miller (2005)</li>
+<li>The Drawing of the Three &#8211; Stephen King (1987)</li>
+<li>All Together Dead &#8211; Charlaine Harris (2007)</li>
+<li>Inheritance &#8211; Christopher Paolini (2011)</li>
+<li>Definitely Dead &#8211; Charlaine Harris (2006)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/15/book-472-saga-by-brian-vaughan/">Saga Vol 1 &#8211; Brian Vaughan (2012)</a></li>
+<li>The Wind-Up Bird Chronicle &#8211; Haruki Murakami (1994)</li>
+<li>The Silmarillion &#8211; J.R.R. Tolkien (1977)</li>
+<li>The Dragon Reborn &#8211; Robert Jordan (1991)</li>
+<li>David Copperfield &#8211; Charles Dickens (1849)</li>
+<li>Prodigy &#8211; Marie Lu (2013)</li>
+<li>Pretty Little Liars &#8211; Sara Shepard (2006)</li>
+<li>The Prince of Tides &#8211; Pat Conroy (1986)</li>
+<li>Behind Closed Doors &#8211; B.A. Paris (2016)</li>
+<li>Mr. Mercedes &#8211; Stephen King (2014)</li>
+<li>On Writing: A Memoir of the Craft &#8211; Stephen King (2000)</li>
+<li>Needful Things &#8211; Stephen King (1991)</li>
+<li>Redeeming Love &#8211; Francine Rivers (1991)</li>
+<li>The Martian Chronicles &#8211; Ray Bradbury (1950)</li>
+<li>The Language of Flowers &#8211; Vanessa Diffenbaugh (2011)</li>
+<li>The Phantom of the Opera &#8211; Gaston Leroux (1909)</li>
+<li>Lean In &#8211; Sheryl Sandberg (2013)</li>
+<li>Don Quixote &#8211; Miguel Cervantes (1605)</li>
+<li>The Mists of Avalon &#8211; Marion Bradley (1982)</li>
+<li>Along for the Ride &#8211; Sarah Dessen (2009)</li>
+<li>The Iron King &#8211; Julie Kagawa (2010)</li>
+<li>The Life-Changing Magic of Tidying Up &#8211; Marie Kondo (2011)</li>
+<li>Life After Life &#8211; Kate Atkinson (2013)</li>
+<li>Choke &#8211; Chuck Palahniuk (2001)</li>
+<li>The Lincoln Lawyer &#8211; Michael Connelly (2005)</li>
+<li>Franny and Zooey &#8211; J.D. Salinger (1961)</li>
+<li>Uncle Tom&#8217;s Cabin &#8211; Harriet Beecher Stowe (1852)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/05/30/book-499-are-you-there-god-its-me-margaret-by-judy-blume/">Are You There God? It&#8217;s Me, Margaret &#8211; Judy Blume (1970)</a></li>
+<li>The Storied Life of A.J. Fikry &#8211; Gabrielle Zevin (2014)<img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>The Subtle Art of Not Giving a F*ck &#8211; Mark Manson (2016)</li>
+<li>Timeline &#8211; Michael Crichton (1999)</li>
+<li>The Silkworm &#8211; Robert Galbraith (2014)</li>
+<li>Americanah &#8211; Chimamanda Adichie (2013)</li>
+<li>Jonathan Strange &amp; Mr Norrell &#8211; Susanna Clarke (2004)</li>
+<li>Zen and the Art of Motorcycle Maintenance &#8211; Robert Pirsig (1974)</li>
+<li>Christine &#8211; Stephen King (1983)</li>
+<li>Truly Madly Guilty &#8211; Liane Moriarty (2016)</li>
+<li>The Forgotten Garden &#8211; Kate Morton (2008)</li>
+<li>The Hate U Give &#8211; Angie Thomas (2017)</li>
+<li>Cell &#8211; Stephen King (2005)</li>
+<li>The Amazing Adventures of Kavalier &amp; Clay &#8211; Michael Chabon (2000)</li>
+<li>Anansi Boys &#8211; Neil Gaiman (2005)</li>
+<li>The Short Second Life of Bree Tanner &#8211; Stephanie Meyer (2010)</li>
+<li>From Dead to Worse &#8211; Charlaine Harris (2009)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/02/book-516-darkly-dreaming-dexter-by-jeff-lindsay/">Darkly Dreaming Dexter &#8211; Jeff Lindsay (2004)</a></li>
+<li>Unwind &#8211; Neal Shusterman (2007)</li>
+<li>Twenty Thousand Leagues Under the Sea &#8211; Jules Verne (1869)</li>
+<li>Life, the Universe and Everything &#8211; Douglas Adams (1982)</li>
+<li>When You Are Engulfed in Flames &#8211; David Sedaris (2008)</li>
+<li>Drums of Autumn &#8211; Diana Gabaldon (1996)</li>
+<li>Entwined in You &#8211; Sylvia Day (2013)</li>
+<li>Jonathan Livingston Seagull &#8211; Richard Bach (1970)</li>
+<li>I&#8217;ve Got Your Number &#8211; Sophie Kinsella (2011)</li>
+<li>Red Rising &#8211; Pierce Brown (2014)</li>
+<li>The Couple Next Door &#8211; Shari Lapena (2016)</li>
+<li>Kitchen Confidential &#8211; Anthony Bourdain (2000)</li>
+<li>I&#8217;d Tell You I Love You, But Then I&#8217;d Have to Kill You &#8211; Ally Carter (2006)</li>
+<li>Nickel and Dimed &#8211; Barbara Ehrenreich (2001)</li>
+<li>Preludes &amp; Nocturnes &#8211; Neil Gaiman (1989)</li>
+<li>Gone &#8211; Michael Grant (2008)</li>
+<li>The Boys in the Boat &#8211; Daniel Brown (2013)</li>
+<li>Beastly &#8211; Alex Flinn (2007)</li>
+<li>Every Day &#8211; David Levithan (2012)</li>
+<li>This Lullaby &#8211; Sarah Dessen (2002)</li>
+<li>Patriot Games &#8211; Tom Clancy (1987)</li>
+<li>Dead and Gone &#8211; Charlaine Harris (2009)</li>
+<li>World Without End &#8211; Ken Follett (2007)</li>
+<li>The DUFF: Designated Ugly Fat Friend &#8211; Kody Keplinger (2010)</li>
+<li>Ways of Seeing &#8211; John Berger (1972)</li>
+<li>The Lies of Locke Lamora &#8211; Scott Lynch (2006)</li>
+<li>Girl Interrupted &#8211; Susanna Kaysen (1993)</li>
+<li>Firestarter &#8211; Stephen King (1980)</li>
+<li>Heidi &#8211; Johanna Spyri (1881)</li>
+<li>Starship Troopers &#8211; Robert A. Heinlein (1959)</li>
+<li>Small Great Things &#8211; Jodi Picoult (2016)</li>
+<li>Orange is the New Black &#8211; Piper Kerman (2010)</li>
+<li>Howl&#8217;s Moving Castle &#8211; Diana Wynne Jones (1986)</li>
+<li>The Hundred-Year-old Man Who Climbed Out a Window… &#8211; Jonas Jonasson (2009)</li>
+<li>The Vampire Lestat &#8211; Anne Rice (1985)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/05/book-551-a-monster-calls-by-patrick-ness/">A Monster Calls &#8211; Patrick Ness (2011)</a></li>
+<li>Mort &#8211; Terry Pratchett (1987)</li>
+<li>The Bourne Supremacy &#8211; Robert Ludlum (1986)</li>
+<li>The Underground Railroad &#8211; Colson Whitehead (2016)</li>
+<li>Aristotle and Dante Discover the Secrets of the Universe &#8211; Benjamin Saenz (2012)</li>
+<li>High Fidelity &#8211; Nick Hornby (1995)</li>
+<li>The Omnivore&#8217;s Dilemma &#8211; Michael Pollan (2006)</li>
+<li>Death of a Salesman &#8211; Arthur Miller (1949)</li>
+<li>Sophie&#8217;s World &#8211; Jostein Garrder (1991)</li>
+<li>King Lear &#8211; William Shakespeare (1603)</li>
+<li>Lover Eternal &#8211; J.R. Ward (2006)</li>
+<li>1Q84 &#8211; Haruki Murakami (2009)</li>
+<li>Six of Crows &#8211; Leigh Bardugo (2015)</li>
+<li>The Passage &#8211; Justin Cronin (2010)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/26/book-565-a-heartbreaking-work-of-staggering-genius-by-dave-eggers/">A Heartbreaking Work of Staggering Genius &#8211; Dave Eggers (2000)</a></li>
+<li>1776 &#8211; David McCullough (2005)</li>
+<li>Simon vs. the Homo Sapiens Agenda &#8211; Becky Albertalli (2015)</li>
+<li>The Rescue &#8211; Nicholas Sparks (2000)</li>
+<li>From the Mixed-Up Files of Mrs. Basil E. Frankenweiler &#8211; E.L. Konigsburg (1967)</li>
+<li>Specials &#8211; Scott Westerfield (2006)</li>
+<li>The Circle &#8211; Dave Eggers (2013)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/22/book-572-the-wind-in-the-willows-by-kenneth-grahame/">The Wind in the Willows &#8211; Kenneth Grahame (1908)</a></li>
+<li>Bloodlines &#8211; Richelle Mead (2011)</li>
+<li>A People&#8217;s History of the United States &#8211; Howard Zinn (1980)</li>
+<li>Hollow City &#8211; Ransom Riggs (2014)</li>
+<li>Wallbanger &#8211; Alice Clayton (2012)</li>
+<li>A Visit from the Good Squad &#8211; Jennifer Egan (2010)</li>
+<li>Homegoing &#8211; Yaa Gyasi (2016)</li>
+<li>The Waste Lands &#8211; Stephen King (1991)</li>
+<li>On Dublin Street &#8211; Samantha Young (2012)</li>
+<li>Shogun &#8211; James Clavell (1975)</li>
+<li>The House of the Spirits &#8211; Isabel Allende (1982)</li>
+<li>Dreams from My Father &#8211; Barack Obama (1995)</li>
+<li>The Remains of the Day &#8211; Kazuo Ishiguro (1989)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/28/book-585-around-the-world-in-eighty-days-by-jules-verne/">Around the World in Eighty Days &#8211; Jules Verne (1872)</a></li>
+<li>Everything is Illuminated &#8211; Jonathan Safran Foer (2002)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Hunted &#8211; P.C. Cast and Kristin Cast (2009)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2020/01/15/book-588-the-good-girl-by-mary-kubica/">The Good Girl &#8211; Mary Kubica (2014)</a></li>
+<li>Walking Disaster &#8211; Jamie McGuire (2013)</li>
+<li>Mrs. Frisby and the Rats of NIMH &#8211; Robert C. O&#8217;Brien (1971)</li>
+<li>The Heir &#8211; Kiera Cass (2015)</li>
+<li>The Reader &#8211; Bernhard Schlink (1995)</li>
+<li>The Awakening &#8211; Kate Chopin (1899)</li>
+<li>Blindness &#8211; Jose Saramago (1995)</li>
+<li>Queen of Shadows &#8211; Sarah J Maas (2015)</li>
+<li>Different Seasons &#8211; Stephen King (1982)</li>
+<li>Fallen Too Far &#8211; Abbi Glines (2012)</li>
+<li>The Rainmaker &#8211; John Grisham (1991)</li>
+<li>Bag of Bones &#8211; Stephen King (1999)</li>
+<li>Sapiens: A Brief History of Humankind &#8211; Yuval Noah Harari (2011)<img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>The Guardian &#8211; Nicholas Sparks (2003)</li>
+<li>The Autobiography of Malcolm X &#8211; Malcolm X (1965)</li>
+<li>Thinner &#8211; Stephen King (1984)</li>
+<li>Batman: The Dark Knight Returns &#8211; Frank Miller (2012)</li>
+<li>Snow Falling on Cedars &#8211; David Guterson (1994)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/27/book-606-moon-called-by-patricia-briggs/">Moon Called &#8211; Patricia Briggs (2006)</a></li>
+<li>Lover Awakened &#8211; J.R. Ward (2006)</li>
+<li>The Dead Zone &#8211; Stephen King (1979)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/10/book-609-the-girl-with-all-the-gifts-by-m-r-carey/">The Girl with all the Gifts &#8211; M.R. Carey (2014)</a></li>
+<li>The Blood of Olympus &#8211; Rick Riordan (2014)</li>
+<li>Firefly Lane &#8211; Kristin Hannah (2008)</li>
+<li>Into the Water &#8211; Rachel Hawkins (2017)</li>
+<li>Scott Pilgrim, Vol 1 &#8211; Bryan Lee O&#8217;Malley (2004)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/19/book-614-the-exorcist-by-william-peter-blatty/">The Exorcist &#8211; William Peter Blatty (1971)</a></li>
+<li>The Hunchback of Notre Dame &#8211; Victor Hugo (1831)</li>
+<li>State of Wonder &#8211; Ann Patchett (2011)</li>
+<li>Prey &#8211; Michael Crichton (2002)</li>
+<li>Hyperbole and a Half &#8211; Allie Brosh (2013)</li>
+<li>Sphere &#8211; Michael Crichton (1987)</li>
+<li>Turtles All the Way Down &#8211; John Green (2017)</li>
+<li>Plain Truth &#8211; Jodi Picoult (2000)</li>
+<li>Mr. Penumbra&#8217;s 24-Hour Bookstore &#8211; Robin Sloan (2012)</li>
+<li>Veronika Decides to Die &#8211; Paulo Coelho (1998)</li>
+<li>The Invention of Hugo Cabret &#8211; Brian Selznick (2007)</li>
+<li>Hyperion &#8211; Dan Simmons (1989)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/05/book-626-the-summoning-by-kelley-armstrong/">The Summoning &#8211; Kelley Armstrong (2008)</a></li>
+<li>Fire &#8211; Kristin Cashore (2009)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Tempted &#8211; P.C. Cast and Kristin Cast (2008)</a></li>
+<li>Dead in the Family &#8211; Charlaine Harris (2010)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/14/book-630-stiff-the-curious-lives-of-human-cadavers-by-mary-roach/">Stiff: The Curious Lives of Human Cadavers &#8211; Mary Roach (2003)</a></li>
+<li>Nights in Rodanthe &#8211; Nicholas Sparks (2002)</li>
+<li>Congo &#8211; Michael Crichton (1980)</li>
+<li>The Cider House Rules &#8211; John Irving (1985)</li>
+<li>The Sound and the Fury &#8211; William Faulkner (1929)</li>
+<li>Midwives &#8211; Chris Bohjalian (1997)</li>
+<li>Pippy Longstocking &#8211; Astrid Lindgren (1945)</li>
+<li>Batman: The Killing Joke &#8211; Alan Moore (1995)</li>
+<li>Are You There, Vodka? It&#8217;s Me, Chelsea &#8211; Chelsea Handler (2007)</li>
+<li>Angelfall &#8211; Susan Ee (2011)</li>
+<li>Let&#8217;s Pretend This Never Happened &#8211; Jenny Lawson (2012)</li>
+<li>Born a Crime: Stories from a South African Childhood &#8211; Trevor Noah (2016)</li>
+<li>The Shadow Rising &#8211; Robert Jordan (1992)</li>
+<li>Wicked Lovely &#8211; Melissa Marr (2007)</li>
+<li>Naked in Death &#8211; J.D. Robb (1995)</li>
+<li>Men are from Mars, Women are from Venus &#8211; John Gray (1998)</li>
+<li>The Corrections &#8211; Jonathan Franzen (2001)</li>
+<li>Love the One You&#8217;re With &#8211; Emily Giffin (2008)</li>
+<li>The White Queen &#8211; Philippa Gregory (2009)</li>
+<li>The Storyteller &#8211; Jodi Picoult (2013)</li>
+<li>Champion &#8211; Marie Lu (2013)</li>
+<li>The Merchant of Venice &#8211; William Shakespeare (1596)</li>
+<li>Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment… &#8211; Julie Powell (2005)</li>
+<li>A Long Way Gone: Memoirs of a Boy Soldier &#8211; Ishmael Beah (2007)</li>
+<li>Linger &#8211; Maggie Stiefvater (2010)</li>
+<li>Beautiful Ruins &#8211; Jess Walter (2012)</li>
+<li>The Unbecoming of Mara Dyer &#8211; Michelle Hodkin (2011)</li>
+<li>Twelth Night &#8211; William Shakespeare (1601)</li>
+<li>Just Kids &#8211; Patti Smith (2010)</li>
+<li>Interpreter of Maladies &#8211; Jhumpa Lahiri (1999)</li>
+<li>The Choice &#8211; Nicholas Sparks (2007)</li>
+<li>Freedom &#8211; Jonathan Franzen (2010)</li>
+<li>Attachments &#8211; Rainbow Rowell (2011)</li>
+<li>Winter &#8211; Marissa Meyer (2015)</li>
+<li>Gathering Blue &#8211; Lois Lowry (2000)</li>
+<li>Invisible Man &#8211; Ralph Ellison (1952)</li>
+<li>Baby Proof &#8211; Emily Giffin (2006)</li>
+<li>A is for Alibi &#8211; Sue Grafton (1982)</li>
+<li>Maybe Someday &#8211; Colleen Hoover (2014)</li>
+<li>Elon Musk &#8211; Ashlee Vance (2015)</li>
+<li>The Constant Princess &#8211; Philippa Gregory (2005)</li>
+<li>The Power of Now: A Guide to Spiritual Enlightenment &#8211; Eckhart Tolle (1997)</li>
+<li>Wizard and Glass &#8211; Stephen King (1997)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/03/672-series-of-unfortunate-events-by-lemony-snicket/">The Wide Window &#8211; Lemony Snicket (2000)</a></li>
+<li>Twenties Girl &#8211; Sophie Kinsella (2009)</li>
+<li>Words of Radiance &#8211; Brandon Sanderson (2014)</li>
+<li>Dark Matter &#8211; Blake Crouch (2016)</li>
+<li>The Silver Linings Playbook &#8211; Matthew Quick (2008)</li>
+<li>The Westing Game &#8211; Ellen Raskin (1978)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/12/20/book-679-the-republic-by-plato/">The Republic &#8211; Plato (-380)</a></li>
+<li>Think and Grow Rich &#8211; Napoleon Hill (1937)</li>
+<li>Landline &#8211; Rainbow Rowell (2014)</li>
+<li>The Tale of Despereaux &#8211; Kate DiCamillo (2004)</li>
+<li>Unravel Me &#8211; Tahereh Mafi (2013)</li>
+<li>The White Tiger &#8211; Aravind Adiga (2008)</li>
+<li>Lamb: The Gospel According to Biff &#8211; Christopher Moore (2002)</li>
+<li>Shutter Island &#8211; Dennis Lehane (2003)</li>
+<li>Between the World and Me &#8211; Ta-Nehisi Coates (2015)</li>
+<li>Born to Run &#8211; Christopher McDougall (2009)</li>
+<li>The Edge of Never &#8211; J.A. Redmerski (2012)</li>
+<li>Darkfever &#8211; Karen Marie Moning (2006)</li>
+<li>Ender&#8217;s Shadow &#8211; Orson Scott Card (1998)</li>
+<li>The Fiery Cross &#8211; Diana Gabaldon (2001)</li>
+<li>Two for the Dough &#8211; Janet Evanovich (1996)</li>
+<li>Origin &#8211; Dan Brown (2017)</li>
+<li>Before We Were Yours &#8211; Lisa Wingate (2017)</li>
+<li>Under the Banner of Heaven &#8211; Jon Krakauer (2003)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/02/24/book-697-dreamcatcher-by-stephen-king/">Dreamcatcher &#8211; Stephen King (2001)</a></li>
+<li>The Throne of Fire- Rick Riordan (2011)</li>
+<li>Modern Romance &#8211; Aziz Ansari (2015)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Burned &#8211; P.C. Cast and Kristin Cast (2009)</a><img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>In the Garden of Beasts &#8211; Erik Larson (2011)</li>
+<li>The Bone Collector &#8211; Jeffery Deaver (1997)</li>
+<li>Steal Like an Artist &#8211; Austin Kleon (2012)</li>
+<li>Lock and Key &#8211; Sarah Dessen (2008)</li>
+<li>Fool Moon &#8211; Jim Butcher (2001)</li>
+<li>Lola and the Boy Next Door &#8211; Stephanie Perkins (2011)</li>
+<li>Gabriel&#8217;s Inferno &#8211; Sylvain Reynard (2011)</li>
+<li>Guards! Guards! &#8211; Terry Pratchett (1989)</li>
+<li>The Complete Grimm&#8217;s Fairy Tales &#8211; Jacob Grimm (1812)</li>
+<li>Passion &#8211; Lauren Kate (2011)</li>
+<li>The Kill Order &#8211; James Dashner (2012)</li>
+<li>Crazy Rich Asians &#8211; Kevin Kwan (2013)</li>
+<li>Artemis Fowl and the Lost Colony &#8211; Eoin Colfer (2006)</li>
+<li>Ugly Love &#8211; Colleen Hoover (2014)</li>
+<li>Flowers in the Attic &#8211; V.C. Andrews (1979)</li>
+<li>Persepolis: The Story of Childhood &#8211; Marjane Satrapi (2000)</li>
+<li>The Lean Startup &#8211; Eric Ries (2011)</li>
+<li>Why Not Me? &#8211; Mindy Kaling (2015)</li>
+<li>The Four Agreements &#8211; Miguel Ruiz (1997)</li>
+<li>Point of Retreat &#8211; Colleen Hoover (2012)</li>
+<li>Doctor Sleep &#8211; Stephen King (2013)</li>
+<li>The Bluest Eye &#8211; Toni Morrison (1970)</li>
+<li>Waiting for Godot &#8211; Samuel Beckett (1953)</li>
+<li>Roots: The Saga of an American Family &#8211; Alex Haley (1976)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/25/book-725-in-a-dark-dark-wood-by-ruth-ware/">In a Dark, Dark Wood &#8211; Ruth Ware (2015)</a></li>
+<li>Wolf Hall &#8211; Hilary Mantel (2009)</li>
+<li>The Wedding &#8211; Nicholas Sparks (2003)</li>
+<li>We Need to Talk About Kevin &#8211; Lionel Shriver (2003)</li>
+<li>The Man Who Mistook His Wife for a Hat &#8211; Oliver Sacks (1985)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/12/22/730-a-room-with-a-view-by-e-m-forster/">A Room with a View &#8211; E.M. Forster (1908)</a></li>
+<li>Suzanne&#8217;s Diary for Nicholas &#8211; James Patterson (2001)</li>
+<li>It Ends with Us &#8211; Colleen Hoover (2016)</li>
+<li>A Bend in the Road &#8211; Nicholas Sparks (2001)</li>
+<li>The Man in the High Castle &#8211; Philip K. Dick (1962)</li>
+<li>Wolves of the Calla &#8211; Stephen King (2003)</li>
+<li>Beautiful Bastard &#8211; Christina Lauren (2013)</li>
+<li>Onyx &#8211; Jennifer L. Armentrout (2012)</li>
+<li>Thoughtless &#8211; S.C. Stephens (2009)</li>
+<li>The Elegance of the Hedgehog &#8211; Muriel Barberry (2006)</li>
+<li>The Best of Me &#8211; Nicholas Sparks (2010)</li>
+<li>A Court of Wings and Ruin &#8211; Sarah J Maas (2017)</li>
+<li>House Rules &#8211; Jodi Picoult (2010)</li>
+<li>Half Broke Horses &#8211; Jeannette Walls (2008)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/04/02/book-744-hex-hall-by-rachel-hawkins/">Hex Hall &#8211; Rachel Hawkins (2010)</a></li>
+<li>The Girls &#8211; Emma Cline (2016)</li>
+<li>The Unlikely Pillgrimage of Harold Fry &#8211; Rachel Joyce (2012)</li>
+<li>Eleven Minutes &#8211; Paulo Coelho (2003)</li>
+<li>Foundation and Empire &#8211; Isaac Asimov (1952)</li>
+<li>Shantaram &#8211; Gregory David Roberts (2003)</li>
+<li>Elantris &#8211; Brandon Sanderson (2005)</li>
+<li>Lonesome Dove &#8211; Larry McMurtry (1985)</li>
+<li>The Way of Shadows &#8211; Brent Weeks (2008)</li>
+<li>A New Earth: Awakening to Your Life&#8217;s Purpose &#8211; Eckhart Tolle (2005)</li>
+<li>The Black Echo &#8211; Michael Connelly (1992)</li>
+<li>Sh*t My Dad Says &#8211; Justin Halpern (2010)</li>
+<li>The Sense of an Ending &#8211; Julian Barnes (2011)</li>
+<li>The Kife of Never Letting Go &#8211; Patrick Ness (2008)</li>
+<li>Reached &#8211; Ally Condie (2012)</li>
+<li>Seabiscuit: An American Legend &#8211; Laura Hillenbrand (1999)</li>
+<li>Old Man&#8217;s War &#8211; John Scalzi (2005)</li>
+<li>Blue Bloods &#8211; Melissa Cruz (2006)</li>
+<li>The Girls&#8217; Guide to Hunting and Fishing &#8211; Melissa Bank (1998)</li>
+<li>Three to Get Deadly &#8211; Janet Evanovich (1997)</li>
+<li>Watchers &#8211; Dean Koontz (1987)</li>
+<li>Crazy Love: Overhelmed by a Relentless God &#8211; Francis Chan (2008)</li>
+<li>Brain on Fire: My Month of Madness &#8211; Susannah Cahalan (2012)</li>
+<li>Angus, Thongs, and Full-Frontal Snogging &#8211; Louise Rennison (1999)</li>
+<li>Night Shift &#8211; Stephen King (1978)</li>
+<li>The Nest &#8211; Cynthia D&#8217;Aprix Sweeney (2016)</li>
+<li>Shadow of Night &#8211; Deborah Harkness (2012)</li>
+<li>Xenocide &#8211; Orson Scott Card (1991)</li>
+<li>The Queen of the Damned (Vampire #3) &#8211; Anne Rice (1988)</li>
+<li>The Age of Innocence &#8211; Edith Wharton. (1920)</li>
+<li>Team of Rivals &#8211; Doris Kearns Goodwin (2005)</li>
+<li>The Blade Itself &#8211; Joe Abercrombie (2006)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/09/book-776-abraham-lincoln-vampire-hunter-by-seth-grahame-smith/">Abrahan Lincoln: Vampire Hunter &#8211; Seth Grahame-Smith (2010)</a></li>
+<li>The Alchemyst &#8211; Michael Scott (2007)</li>
+<li>The Plague &#8211; Albert Camus (1947)</li>
+<li>Glass Sword &#8211; Victoria Aveyard (2016)</li>
+<li>Nine Stories &#8211; J.D. Salinger (1953)</li>
+<li>Shanghai Girls &#8211; Lisa See (2009)</li>
+<li>An Ember in the Ashes &#8211; Sabaa Tahir (2015)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/06/18/book-783-the-bean-trees-by-barbara-kingsolver/">The Bean Trees &#8211; Barbara Kingsolver (1988)</a></li>
+<li>Wait for You &#8211; J. Lynn (2013)</li>
+<li>Journey to the Center of the Earth &#8211; Jules Verne (1864)</li>
+<li>Guilty Pleasures &#8211; Laurell K Hamilton (1993)</li>
+<li>One Plus One &#8211; Jojo Moyes (2014)</li>
+<li>Smile &#8211; Raina Telgemeier (2009)</li>
+<li>Finale &#8211; Becca Fitzpatrick (2012)</li>
+<li>The Summer I Turned Pretty &#8211; Jenny Han (2009)</li>
+<li>The Joy of Cooking &#8211; Irma S. Rombauer (1931)</li>
+<li>Halfway to the Grave &#8211; Jeaniene Frost (2007)</li>
+<li>Tales of a Fourth Grade Nothing &#8211; Judy Blume (1972)</li>
+<li>Olive Kitteridge &#8211; Elizabeth Strout (2008)</li>
+<li>The Audacity of Hope &#8211; Barack Obama (2006)</li>
+<li>North and South &#8211; Elizabeth Gaskell (1855)</li>
+<li>So Long, and Thanks for all the Fish &#8211; Douglas Adams (1984)</li>
+<li>The Art Book &#8211; Phaidon Press (1997)</li>
+<li>The Witch of Blackbird Pond &#8211; Elizabeth George Speare (1958)</li>
+<li>This is Where I Leave You &#8211; Jonathan Tropper (2009)<img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>Trainspotting &#8211; Irvine Welsh (1993)</li>
+<li>The Blind Assassin &#8211; Margaret Atwood (2000)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/03/672-series-of-unfortunate-events-by-lemony-snicket/">The Miserable Mill &#8211; Lemony Snicket (2000)</a></li>
+<li>Inferno &#8211; Dante Alighieri (1320)</li>
+<li>Grey &#8211; E.L. James (2015)</li>
+<li>No Country for Old Men &#8211; Cormac McCarthy (2005)</li>
+<li>The Sweetness at the Bottom of the Pie &#8211; Alan Bradley (2009)</li>
+<li>As I Lay Dying &#8211; William Faulkner (1930)</li>
+<li>Insomnia &#8211; Stephen King (1994)</li>
+<li>The Dark Tower &#8211; Stephen King (2004)</li>
+<li>Royal Assassin &#8211; Robin Hobb (1996)</li>
+<li>My Life Next Door &#8211; Huntley Fitzpatrick (2012)</li>
+<li>Between Shades of Gray &#8211; Ruta Sepetys (2011)</li>
+<li>The Alienist &#8211; Caleb Carr (1994)</li>
+<li>Poison Study &#8211; Maria V. Snyder (2005)</li>
+<li>Middlemarch &#8211; George Eliot (1871)</li>
+<li>Lady Midnight &#8211; Cassandra Clare (2016)</li>
+<li>A Little Life &#8211; Hanya Yanagihara (2015)</li>
+<li>Naruto, Vol 1 &#8211; Masahi Kishimoto (1999)</li>
+<li>Four Score &#8211; Janet Evanovich (1998)</li>
+<li>The Shipping News &#8211; Annie Prouix (1993)</li>
+<li>Major Pettigrew&#8217;s Last Stand &#8211; Helen Simonson (2010)</li>
+<li>Schingler&#8217;s List &#8211; Thomas Keneally (1982)</li>
+<li>My Brilliant Friend &#8211; Elena Ferrante (2011)</li>
+<li>Falling Up &#8211; Shel Silverstein (1996)</li>
+<li>Carry On &#8211; Rainbow Rowell (2015)</li>
+<li>Career of Evil &#8211; Robert Galbraith (2015)</li>
+<li>The Story of My Life &#8211; Helen Keller (1902)</li>
+<li>Jaws &#8211; Peter Benchley (1974)</li>
+<li>Anne of Avonlea &#8211; L.M. Montgomery (1909)</li>
+<li>Year of Wonders &#8211; Geraldine Brooks (2001)</li>
+<li>Surely You&#8217;re Joking, Mr. Feynman! &#8211; Richard Feynman (1984)</li>
+<li>The Jungle &#8211; Upton Sinclair (1906)</li>
+<li>David and Goliath &#8211; Malcolm Gladwell (2009)</li>
+<li>About a Boy &#8211; Nick Hornby (1998)</li>
+<li>Fables, Vol 1 &#8211; Bill Willingham (2002)</li>
+<li>Requiem &#8211; Lauren Oliver (2013)</li>
+<li>Grave Peril &#8211; Jim Butcher (2001)</li>
+<li>Deja Dead &#8211; Kathy Reichs (1997)</li>
+<li>Steelheart &#8211; Brandon Sanderson (2013)</li>
+<li>Anthem &#8211; Ayn Rand (1938)</li>
+<li>Clear and Present Danger &#8211; Tom Clancy (1989)</li>
+<li>The Happiness Project &#8211; Gretchen Rubin (2009)</li>
+<li>Pretty Girls &#8211; Karin Slaughter (2015)</li>
+<li>Curious George &#8211; H.A. Rey (1941)</li>
+<li>Vision in White &#8211; Nora Roberts (2009)</li>
+<li>Second Foundation &#8211; Isaac Asimov (1953)</li>
+<li>Luckiest Girl Alive &#8211; Jessica Knoll (2015)</li>
+<li>Days of Blood &amp; Starlight (Daughter #2) &#8211; Laini Taylor (2012)</li>
+<li>A Gentleman in Moscow &#8211; Amor Towles (2016)</li>
+<li>The Hours &#8211; Michael Cunningham (1998)</li>
+<li>Equal Rites &#8211; Terry Pratchett (1987)</li>
+<li>I am the Messenger &#8211; Markus Zusak (2002)</li>
+<li>Harold and the Purple Crayon &#8211; Crockett Johnson (1955)</li>
+<li>Gerald&#8217;s Game &#8211; Stephen King (1992)</li>
+<li>A Breath of Snow and Ash &#8211; Diana Gabaldon (2005)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/07/book-158-the-house-of-night-series-by-p-c-cast-and-kristin-cast/">Awakened &#8211; P.C. Cast and Kristin Cast (2011)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/03/672-series-of-unfortunate-events-by-lemony-snicket/">The Austere Academy &#8211; Lemony Snicket (2000)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2020/02/26/book-859-crank-by-ellen-hopkins/">Crank &#8211; Ellen Hopkins (2004)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/17/book-861-the-murder-at-the-vicarage-by-agatha-christie/">Murder at the Vicarage &#8211; Agatha Christie (1930)</a></li>
+<li>The Forever war &#8211; Joe Haldeman (1974)</li>
+<li>The Fires of Heaven &#8211; Robert Jordan (1993)</li>
+<li>Rework &#8211; Jason Fried (2010)</li>
+<li>The Secret Keeper &#8211; Kate Morton (2012)</li>
+<li>The Girl You Left Behind &#8211; Jojo Moyes (2012)</li>
+<li>Siege and Storm &#8211; Leigh Bardugo (2013)</li>
+<li>Paradise Lost &#8211; John Milton (1667)</li>
+<li>Beautiful Darkness &#8211; Kami Garcia (2010)</li>
+<li>Woman in White, The &#8211; Wilkie Collins (1859)</li>
+<li>The Chamber &#8211; John Grisham (1994)</li>
+<li>Unearthly &#8211; Cynthia Hand (2011)</li>
+<li>For One More Day &#8211; Mitch Albom (2006)</li>
+<li>A Darker Shade of Magic &#8211; Victoria Schwab (2015)</li>
+<li>Shopaholic &amp; Baby &#8211; Sophie Kinsella (2007)</li>
+<li>Rendezvous with Rama &#8211; Arthur C. Clarke (1973)</li>
+<li>Year of Magical Thinking, The &#8211; Joan Didion (2005)</li>
+<li>The Big Short: Inside the Doomsday Machine &#8211; Michael Lewis (2009)</li>
+<li>The Power of Six &#8211; Pittacus Lore (2011)</li>
+<li>Lover Revealed &#8211; J.R. Ward (2007)</li>
+<li>House of Sand and Fog &#8211; Andre Dubus (1999)</li>
+<li>The Selfish Gene &#8211; Richard Dawkins (1976)</li>
+<li>A Beautiful Mind &#8211; Sylvia Nasar (1998)</li>
+<li>A Fine Balance &#8211; Rohinton Mistry (1995)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/29/book-884-the-girl-who-loved-tom-gordon-by-stephen-king/">The Girl Who Loved Tom Gordon &#8211; Stephen King (1999)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/23/book-885-bird-box-by-josh-malerman/">Bird Box &#8211; Josh Malerman (2014)</a></li>
+<li>A Portrait of the Artist as a Young Man &#8211; James Joyce (1916)</li>
+<li>The History of Love &#8211; Nicole Krauss (2005)</li>
+<li>The Dinner &#8211; Herman Koch (2009)</li>
+<li>The Sword of Summer &#8211; Rick Riordan (2015)</li>
+<li>Dead Reckoning &#8211; Charlaine Harris (2011)</li>
+<li>Lover Unbound &#8211; J.R. Ward (2007)</li>
+<li>People of the Book &#8211; Geraldine Brooks (2008)</li>
+<li>Lilac Girls &#8211; Martha Hall Kelly (2016)</li>
+<li>The Deep End of the Ocean &#8211; Jacquelyn Mitchard (1996)</li>
+<li>Leaving Time &#8211; Jodi Picoult (2014)</li>
+<li>Rodrick Rules &#8211; Jeff Kinney (2008)</li>
+<li>The Surgeon &#8211; Tess Gerritsen (2001)</li>
+<li>Effortless &#8211; S.C. Stephens (2011)</li>
+<li>The Bonesetter&#8217;s Daughter &#8211; Amy Tan (2001)</li>
+<li>The Gathering Storm &#8211; Robert Jordan (2009)<img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class=" size-full wp-image-286 aligncenter" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></li>
+<li>Steppenwolf &#8211; Hermann Hesse (1927)</li>
+<li>Reconstructing Amelia &#8211; Kimberly McCreight (2013)</li>
+<li>Hot Six &#8211; Janet Evanovich (2000)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/19/book-904-the-scarlet-pimpernel-by-emmuska-osczy/">The Scarlet Pimpernel &#8211; Emmuska Orczy (1905)</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/17/book-905-the-invisible-man-by-h-g-wells/">The Invisible Man &#8211; H.G. Wells (1897)</a></li>
+<li>The Darkest Minds &#8211; Alexandra Bracken (2012)</li>
+<li>Anne of the Island &#8211; L.M. Montgomery (1915)</li>
+<li>Beneath a Scarlet Sky &#8211; Mark Sullivan (2017)</li>
+<li>Song of Susannah &#8211; Stephen King (2004)</li>
+<li>Empire of Storms  &#8211; Sarah J Maas (2016)</li>
+<li>The Tenth Circle &#8211; Jodi Picoult (2006)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/03/book-912-my-antonia-by-willa-cather/">My Antonia &#8211; Willa Cather (1918)</a></li>
+<li>Maniac Magee &#8211; Jerry Spinelli (1990)</li>
+<li>Far from the Madding Crowd &#8211; Thomas Hardy (1874)</li>
+<li>Eye of the Needle &#8211; Ken Follett (1978)</li>
+<li>Dolores Claiborne &#8211; Stephen King (1992)</li>
+<li>Opal &#8211; Jennifer L. Armentrout (2012)</li>
+<li>Never Too Far &#8211; Abbi Glines (2013)</li>
+<li>Childhood&#8217;s End &#8211; Arthur C. Clarke (1953)</li>
+<li>Pushing the Limits &#8211; Katie McGarry (2012)</li>
+<li>Not that Kind of Girl &#8211; Lena Dunham (2014)</li>
+<li>Summer Knight &#8211; Jim Butcher (2002)</li>
+<li>Leviathan Wakes &#8211; James S.A. Corey (2011)</li>
+<li>Jemima J &#8211; Jane Green (2001)</li>
+<li>Towers of Midnight &#8211; Robert Jordan (2010)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/17/book-926-me-and-earl-and-the-dying-girl-by-jesse-andrews/">Me and Earl and the Dying Girl &#8211; Jesse Andrews (2012)</a></li>
+<li>High Five &#8211; Janet Evanovich (1999)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/03/672-series-of-unfortunate-events-by-lemony-snicket/">The Ersatz Elevator &#8211; Lemony Snicket (2001)</a></li>
+<li>Lord of Chaos &#8211; Robert Jordan (1994)</li>
+<li>School&#8217;s Out &#8211; Forever &#8211; James Patterson (2006)</li>
+<li>Maus II: And here my troubles began &#8211; Art Spiegelman (1991)</li>
+<li>SuperFreakonomics &#8211; Steven Levitt (2009)</li>
+<li>The Dark Half &#8211; Stephen King (1989)</li>
+<li>Desperation &#8211; Stephen King (1996)</li>
+<li>Ignite Me &#8211; Tahereh Mafi (2014)</li>
+<li>Across the Universe &#8211; Beth Revis (2011)</li>
+<li>Rules of Civility &#8211; Amor Towles (2011)</li>
+<li>To the Lighthouse &#8211; Virginia Woolf (1927)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/11/01/book-939-aesops-fables-by-aesop/">Aesop&#8217;s Fables &#8211; Aesop (-560)</a></li>
+<li>Tell the Wolves I&#8217;m Home &#8211; Carol Rifka Brunt (2012)</li>
+<li>Helter Skelter: The True Story of the Manson Murders &#8211; Vincent Bugliosi (1974)</li>
+<li>Vanity Fair &#8211; William Thackeray (1848)</li>
+<li>The Coincidence of Callie &amp; Kayden &#8211; Jessica Sorensen (2012)</li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/03/672-series-of-unfortunate-events-by-lemony-snicket/">The Vile Village &#8211; Lemony Snicket (2001)</a></li>
+<li>Mystic River &#8211; Dennis Lehane (2001)</li>
+<li>Shopaholic Takes Manhattan &#8211; Sophie Kinsella (2001)</li>
+<li>Contact &#8211; Carl Sagan (1985)</li>
+<li>The Tommyknockers &#8211; Stephen King (1987)</li>
+<li>Reading Lolita in Tehran &#8211; Azar Nafisi (2003)</li>
+<li>The Dream Thieves &#8211; Maggie Stiefvater (2013)</li>
+<li>Life as We Knew It &#8211; Susan Beth Pfeffer (2006)</li>
+<li>The Marriage Plot &#8211; Jeffrey Eugenides (2011)</li>
+<li>A Crown of Swords &#8211; Robert Jordan (1996)</li>
+<li>Annihilation &#8211; Jeff VanderMeer (2014)</li>
+<li>The Mysterious Benedict Society &#8211; Trenton Lee Stewart (2007)</li>
+<li>Dirk Gently&#8217;s Holistic Detective Agency &#8211; Douglas Adams (1987)</li>
+<li>Seven Up &#8211; Janet Evanovich (2001)</li>
+<li>The Iron Daughter &#8211; Julie Kagawa (2010)</li>
+<li>Commonwealth &#8211; Ann Patchett (2016)</li>
+<li>Golden Son &#8211; Pierce Brown (2015)</li>
+<li>Uprooted &#8211; Naomi Novik (2015)</li>
+<li>All Creatures Great and Small &#8211; James Herriot (1972)</li>
+<li>Attack on Titan Vol 1 &#8211; Hajime Isayama (2010)</li>
+<li>Hard Eight &#8211; Janet Evanovich (2002)</li>
+<li>Among the Hidden &#8211; Margaret Peterson Haddix (1998)</li>
+<li>The Idiot &#8211; Fyodor Dostoyevsky (1868)</li>
+<li>Daughter of Fortune &#8211; Isabel Allende (1998)</li>
+<li>The Murder of Roger Ackroyd &#8211; Agatha Christie (1926)</li>
+<li>The Statistical Probability of Love at First Sight &#8211; Jennifer E. Smith (2012)</li>
+<li>The Infinite Sea &#8211; Rick Yancey (2014)</li>
+<li>The Awakening &#8211; Kelley Armstrong (2009)</li>
+<li>Handle with Care &#8211; Jodi Picoult (2009)</li>
+<li>Dead Witch Walking &#8211; Kim Harrison (2004)</li>
+<li>The Lost World &#8211; Michael Crichton (1995)</li>
+<li>The Goose Girl &#8211; Shannon Hale (2003)</li>
+<li>Fullmetal Alchemist Vol 1 &#8211; Hiromu Arakawa (2002)</li>
+<li>The Girl in the Spider&#8217;s Web &#8211; David Lagercrantz (2015)</li>
+<li>The Reckoning &#8211; Kelley Armstrong (2010)</li>
+<li>Gabriel&#8217;s Rapture &#8211; Sylvain Reynard (2012)</li>
+<li>The Eyre Affair &#8211; Jasper Fforde (2001)</li>
+<li>Colorless Tsukuru Tazaki and His Years of Pilgrimage &#8211; Haruki Murakami (2013)</li>
+<li>Confess &#8211; Colleen Hoover (2015)</li>
+<li>The Amulet of Samarkand &#8211; Jonathan Stroud (2003)</li>
+<li>Winter of the World &#8211; Ken Follett (2012)</li>
+<li>The One and Only Ivan &#8211; Katherine Applegate (2012)</li>
+<li>The Marriage Bargain &#8211; Jennifer Probst (2012)</li>
+<li>Dubliners &#8211; James Joyce (1914)</li>
+<li>Under the Never Sky &#8211; Veronica Rossi (2011)</li>
+<li>The Big Sleep &#8211; Raymond Chandler (1939)</li>
+<li>One Thousand White Women: The Journals of Mary Dodd &#8211; Jim Fergus (1998)</li>
+<li>The Ruins of Gorlan &#8211; John Flanagan (2004)</li>
+<li>White Teeth &#8211; Zadie Smith (1999)</li>
+<li>Rise of the Evening Star &#8211; Brandon Mull (2007)</li>
+<li>The Psychopath Test &#8211; Jon Ronson (2012)</li>
+<li>House of Leaves &#8211; Mark Danielewski (2000)</li>
+<li>Moloka&#8217;i &#8211; Alan Brennert (2003)</li>
+<li>Chocolat &#8211; Joanne Harris (1999)</li>
+<li>The Complete Fairy Tales &#8211; Hans Christian Anderson (1835)</li>
+<li>The Glass Menagerie &#8211; Tennessee Williams (1945)</li>
+<li>A Moveable Feast &#8211; Ernest Hemingway (1964)</li>
+</ol>
+<p><img data-attachment-id="286" data-permalink="https://libraryof1000books.wordpress.com/the-list-of-1000-books/books5-1/" data-orig-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg" data-orig-size="1638,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="books5-1" data-image-description="" data-image-caption="" data-medium-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300" data-large-file="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" class="alignnone size-full wp-image-286" src="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840" alt="books5-1" srcset="https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=840 840w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=150 150w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=300 300w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=768 768w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg?w=1024 1024w, https://libraryof1000books.files.wordpress.com/2018/09/books5-1-e1536877804214.jpg 1638w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></p>
+<h2>Honorable Mentions</h2>
+<ol>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/06/book-freebie-1-you-are-mine-by-janeal-falor/">You Are Mine &#8211; Janeal Falor</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/07/12/book-freebie-2-the-gods-themselves-by-isaac-asimov/">The Gods Themselves &#8211; Isaac Asimov</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/31/honorable-mention-the-coldest-girl-in-coldtown-by-holly-black/">The Coldest Girl in Coldtown &#8211; Holly Black</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2020/01/26/honorable-mention-4-strange-angels-by-lili-st-crow/">Strange Angels &#8211; Lili St. Crow</a></li>
+</ol>
+<h2><strong>Challenges</strong></h2>
+<ul>
+<li><a href="https://libraryof1000books.wordpress.com/2018/05/17/were-joining-the-great-american-read/">Great American Read</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/09/13/banned-book-week/">Banned Books &#8211; 2018</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/10/01/octobers-spooky-reading-list/">Halloween Reads &#8211; 2018</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2018/11/01/reading-across-america-50-books-for-50-states/">Read Across America</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/09/30/octobers-spookfest-return-of-the-books/">Halloween Reads &#8211; 2019</a></li>
+<li><a href="https://libraryof1000books.wordpress.com/2019/10/29/end-of-the-year-tales-as-old-as-time-reading-list/">Tales As Old As Time</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="atatags-370373-6258066e6887e">
+        <script type="text/javascript">
+            __ATA.cmd.push(function() {
+                __ATA.initVideoSlot('atatags-370373-6258066e6887e', {
+                    sectionId: '370373',
+                    format: 'inread'
+                });
+            });
+        </script>
+    </div>			<div id="atatags-26942-6258066e68a78"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-26942-6258066e68a78',
+						location: 120,
+						formFactor: '001',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-285" class="share-twitter sd-button share-icon" href="https://libraryof1000books.wordpress.com/the-list-of-1000-books/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-285" class="share-facebook sd-button share-icon" href="https://libraryof1000books.wordpress.com/the-list-of-1000-books/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-144622857-285-6258066e6d0e8' data-src='//widgets.wp.com/likes/index.html?ver=20220105#blog_id=144622857&amp;post_id=285&amp;origin=libraryof1000books.wordpress.com&amp;obj_id=144622857-285-6258066e6d0e8' data-name='like-post-frame-144622857-285-6258066e6d0e8' data-title='Like or Reblog'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-285 -->
+
+	</main><!-- .site-main -->
+
+	
+</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area">
+		<section id="search-1" class="widget widget_search">
+<form role="search" method="get" class="search-form" action="https://libraryof1000books.wordpress.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+</form>
+</section><section id="blog_subscription-1" class="widget widget_blog_subscription jetpack_subscription_widget"><h2 class="widget-title"><label for="subscribe-field">Follow Blog via Email</label></h2>
+
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				id="subscribe-blog"
+			>
+				<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+					<div class="jetpack-subscribe-count">
+						<p>
+						Join 147 other followers						</p>
+					</div>
+									<p id="subscribe-email">
+					<label
+						id="subscribe-field-label"
+						for="subscribe-field"
+						class="screen-reader-text"
+					>
+						Email Address:					</label>
+
+					<input
+							type="email"
+							name="email"
+							
+							style="width: 95%; padding: 1px 10px"
+							placeholder="Enter your email address"
+							value=""
+							id="subscribe-field"
+						/>				</p>
+
+				<p id="subscribe-submit"
+									>
+					<input type="hidden" name="action" value="subscribe"/>
+					<input type="hidden" name="blog_id" value="144622857"/>
+					<input type="hidden" name="source" value="https://libraryof1000books.wordpress.com/the-list-of-1000-books/"/>
+					<input type="hidden" name="sub-type" value="widget"/>
+					<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="9feae21e04" />					<button type="submit"
+													class="wp-block-button__link"
+																	>
+						Follow					</button>
+				</p>
+			</form>
+			
+</section>			<div id="atatags-286348-6258066e6d6f0"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-286348-6258066e6d6f0',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script>	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer">
+							<nav class="main-navigation" aria-label="Footer Primary Menu">
+					<div class="menu-primary-container"><ul id="menu-primary-1" class="primary-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1266"><a href="https://libraryof1000books.wordpress.com/about-faq/">About /  FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7"><a href="https://libraryof1000books.wordpress.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-285 current_page_item menu-item-298"><a href="https://libraryof1000books.wordpress.com/the-list-of-1000-books/" aria-current="page">The List of 1000 Books</a></li>
+</ul></div>				</nav><!-- .main-navigation -->
+			
+			
+			<div class="site-info">
+								<span class="site-title"><a href="https://libraryof1000books.wordpress.com/" rel="home">Library of 1000 Books</a></span>
+								<a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+<!--  -->
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202215z' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240h'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						// Validate callback.
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						// Validate the given command.
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC. If set, override any stored cookie.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						// Invalid cookie.
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						// Everything checks out. Fire the provided callback with the consent data.
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Internal functions.
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultOptOutCookie = function() {
+							var value = '1YYN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultNotApplicableCookie = function() {
+							var value = '1---';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( applies ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', applies, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						// Look for usprivacy cookie first.
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						// Found a usprivacy cookie.
+						if ( null !== usprivacyCookie ) {
+
+							// If the cookie indicates that CCPA does not apply, then bail.
+							if ( '1---' === usprivacyCookie ) {
+								return;
+							}
+
+							// CCPA applies, so call our callback to add Do Not Sell link to the page.
+							maybeCallDoNotSellCallback();
+
+							// We're all done, no more processing needed.
+							return;
+						}
+
+						// We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						// No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
+						// This needs to happen client side because we do not have region geo data in our $SERVER headers,
+						// only country data -- therefore we can't vary cache on the region.
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										// Got a geo response. Parse out the region data.
+										var data = JSON.parse( this.response );
+										var ccpa_applies = data['region'] && data['region'].toLowerCase() === 'california';
+
+										// Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
+										setCcpaAppliesCookie( ccpa_applies );
+
+										// Check if CCPA applies to set the proper usprivacy cookie.
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												// Do Not Sell link added, so set default opt-in.
+												setDefaultOptInCookie();
+											} else {
+												// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+												setDefaultOptOutCookie();
+											}
+										} else {
+											// CCPA does not apply.
+											setDefaultNotApplicableCookie();
+										}
+									} else {
+										// Could not geo, so let's assume for now that CCPA applies to be safe.
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											// Do Not Sell link added, so set default opt-in.
+											setDefaultOptInCookie();
+										} else {
+											// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+											setDefaultOptOutCookie();
+										}
+									}
+								}
+							};
+
+							// Send the geo request.
+							request.send();
+						} else {
+							// We found a CCPA applies cookie.
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									// Do Not Sell link added, so set default opt-in.
+									setDefaultOptInCookie();
+								} else {
+									// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+									setDefaultOptOutCookie();
+								}
+							} else {
+								// CCPA does not apply.
+								setDefaultNotApplicableCookie();
+							}
+						}
+					} );
+				};
+
+				// Kickoff initialization.
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+		<div class="widget widget_eu_cookie_law_widget">
+<div
+	class="hide-on-button ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+	style="display: none"
+>
+	<form method="post">
+		<input type="submit" value="Close and accept" class="accept" />
+
+		Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br />
+To find out more, including how to control cookies, see here:
+				<a href="https://automattic.com/cookies/" rel="nofollow">
+			Cookie Policy		</a>
+ </form>
+</div>
+</div>		<script type="text/javascript">
+		( function() {
+			function init() {
+				document.body.addEventListener( 'is.post-load', function() {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+		</script>	<div id="actionbar" style="display: none;"
+			class="actnbr-pub-twentysixteen actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://libraryof1000books.wordpress.com">
+				<img alt='' src='https://libraryof1000books.files.wordpress.com/2018/08/cropped-29302.png?w=50' class='avatar avatar-50' height='50' width='50' />				Library of 1000 Books			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Join 147 other followers</div>
+																					<div>
+										<input type="email" name="email" placeholder="Enter your email address" class="actnbr-email-field" aria-label="Enter your email address" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="144622857" />
+										<input type="hidden" name="source" value="https://libraryof1000books.wordpress.com/the-list-of-1000-books/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="9feae21e04" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Sign me up">
+												Sign me up											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Flibraryof1000books.wordpress.com%2Fthe-list-of-1000-books%2F&#038;signup_flow=account">Log in now.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename">
+			<a href="https://libraryof1000books.wordpress.com">
+				<img alt='' src='https://libraryof1000books.files.wordpress.com/2018/08/cropped-29302.png?w=50' class='avatar avatar-50' height='50' width='50' />				Library of 1000 Books			</a>
+		</li>
+								<li class="actnbr-folded-customize">
+								<a href="https://libraryof1000books.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Flibraryof1000books.wordpress.com%2Fthe-list-of-1000-books%2F">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"/></g></svg>									<span>Customize</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow">
+												<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
+									<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Flibraryof1000books.wordpress.com%2Fthe-list-of-1000-books%2F&#038;signup_flow=account">Log in</a></li>
+																	<li class="actnbr-shortlink"><a href="https://wp.me/P9MP0J-4B">Copy shortlink</a></li>
+																	<li class="flb-report"><a href="http://en.wordpress.com/abuse/">Report this content</a></li>
+																	<li class="actnbr-reader">
+										<a href="https://wordpress.com/read/blogs/144622857/posts/285">
+											View post in Reader										</a>
+									</li>
+																	<li class="actnbr-subs">
+										<a href="https://subscribe.wordpress.com/">Manage subscriptions</a>
+									</li>
+																		<li class="actnbr-fold"><a href="">Collapse this bar</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20220329";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+			<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/libraryof1000books.wordpress.com\/the-list-of-1000-books\/":285};
+	</script>
+				<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/_static/??/wp-content/mu-plugins/carousel/swiper-bundle.css,/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1630955947j&cssminify=yes' type='text/css' media='all' />
+<script id='comment-like-js-extra'>
+var comment_like_text = {"loading":"Loading...","swipeUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/comment-likes\/js\/lib\/swipe.js?ver=20131008"};
+</script>
+<script id='twentysixteen-script-js-extra'>
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+</script>
+<script id='jetpack-carousel-js-extra'>
+var jetpackSwiperLibraryPath = {"url":"\/wp-content\/mu-plugins\/carousel\/swiper-bundle.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/libraryof1000books.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"15197fd3e4","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/libraryof1000books.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Flibraryof1000books.wordpress.com%2Fthe-list-of-1000-books%2F","blog_id":"144622857","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=144622857&v=wpcom&tz=0&user_id=0&subd=libraryof1000books","is_public":"1"};
+</script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??-eJyNkN1OwzAMRl8IY9gmEBeIZ8lSt3XzS+yQ8fYEoUlTJ0VcJTn+TmIHWwabolJU3AQn+mJL+fK4yQPelEKF7OvCUbDxtJAKUu3V5JjAm4ZKIXujtOODezy7nv6sVGk1cfJUBmGbQugI/qRtB/airhR6LNczauvgW/iiRPFXFMe5W9HBnGwVmPlu2JE+12iVU7x786ZZMwWOcDYFgxGl0negxVg3kqwpqQp53Ehzz8IV/MOBlvt/7I4DLydRmL3hgrKawnG5rl36CO/PL6e309Ph8HrcfgCt5M0G'></script>
+<script type='text/javascript'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<iframe src='https://widgets.wp.com/likes/master.html?ver=20220105#ver=20220105&amp;origin=https://libraryof1000books.wordpress.com' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'>
+		<div class="likes-text">
+			<span>%d</span> bloggers like this:		</div>
+		<ul class="wpl-avatars sd-like-gravatars"></ul>
+	</div>
+
+		<script src="//stats.wp.com/w.js?63" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'144622857','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'144622857','v':'wpcom','tz':'0','user_id':'0','post':'285','subd':'libraryof1000books'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRVj1KV0xPZ1hKXy85ZF0sN1tBUWQ3U09jMXRiWi9STF82RjNxaV9hL0NbTGRCJXQrNWthL2otTmErVyswSFZOamxQR19GVC9oLjdZeUFqYkJRUnFSLiVELk5jSDJzYWQ1XWZnTUMtWDgrWHd4JmtvTmUtdjFOZVI5Vm0tZmFCSGFZfCtRPT9zeE5ZRFJaZ25TZjRBWmdGaHdmWC40fjkxX2JTbE9qQiU9cixMdHlTRllqZC1Nal1bWjBoZzRLeVhIZF9ZN2p6K3F1cWZ3ZW5mfF1SSVFdNytS'}]);
+_stq.push([ 'clickTrackerInit', '144622857', '285' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script defer id="bilmur" data-customproperties="{&quot;enq_jquery&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/twentysixteen&quot;}" data-provider="wordpress.com" data-service="simple"  src="/wp-content/js/bilmur.min.js?i=3&m=202215"></script><script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>
+<!--
+	generated in 0.201 seconds
+	177920 bytes batcached for 300 seconds
+-->

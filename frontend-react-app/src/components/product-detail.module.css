@@ -1,0 +1,199 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+/* .gridContainer {
+    display: grid;
+    grid-template-columns: 120px  120px  120px;
+    grid-template-areas: 
+        'main-left main-right price'
+        'main-left main-right price'
+        'main-left main-right main-right'
+    ;
+    gap: 10px;
+}
+
+.box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+  }
+
+.mainLeft { grid-area: 'main-left'; }
+.mainRight { grid-area: 'main-right'; }
+.price { grid-area: 'price'; } */
+
+
+.body {
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.topContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.leftSection {
+    display: flex;
+    flex-direction: column;
+    flex: 1.5;
+    align-items: center;
+    /* background-color: aqua; */
+    min-width: 300px;
+}
+
+.flexGapWrapper {
+    margin: 10px 2%;
+    padding: 0px 10px;
+}
+
+.middleSection {
+    flex: 2;
+    padding-top: 30px;
+    /* background-color: aquamarine; */
+    min-width: 300px;
+}
+
+.iconBar {
+    display: inline-block;
+    margin-top: 20px;
+    /* background-color: bisque; */
+    width: fit-content;
+}
+
+.bookCover {
+    width: 50%;
+}
+
+.iconWrapper {
+    display: inline-block;
+    /* flex-direction: column; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    margin: 5px;
+    vertical-align: top;
+}
+
+.ratingWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+    margin-left: -10px;
+}
+
+.ratingLabel {
+    margin-left: 4px;
+    font-size: smaller;
+}
+
+.bookInfo {
+    word-wrap: break-word;
+}
+.bookInfo td {
+    text-align: left;
+    padding: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    vertical-align: top;
+}
+
+.priceSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 200px;
+    flex: 1;
+    /* background-color: antiquewhite; */
+    min-width: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.rightAlign {
+    float: right;
+    display: flex;
+    align-items: flex-end;
+    /* background-color: aqua; */
+    margin-right: 20px;
+}
+
+.bottomContainer {
+    margin-top: 4vh;
+    margin-bottom: 10vh;
+}
+
+.bookWrapper {
+    padding-top: 3vh;
+}
+
+.bookSlides a {
+    display: inline-block;
+}
+
+.bookSlides img {
+    width: 30vh;
+    height: 45vh;
+    margin: auto;
+}
+
+.bookSlides:hover {
+    transform: scale(1.15);
+}
+
+.bookIcons {
+    color: black;
+    position: absolute;
+    padding: 3px 5px 3px 5px;
+    background-color: darkgray;
+    border-radius: 50%;
+    right: 9vh;
+    top: 2vh;
+    outline: 2px solid black;
+}
+
+.bookTitle {
+    margin-left: 4vh;
+    float: left;
+    text-align: left;
+    color: black;
+    font-size: small;
+    top: 46vh;
+}
+
+.sliderNext {
+    background-color: white;
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+    padding-top: 16vh;
+    padding-bottom: 16vh;
+    padding-left: 1vh;
+    opacity: 0.75;
+    margin-left: -11vh;
+    margin-right: -5vh;
+    right: 4%;
+    top: 9%;
+}
+
+.sliderPrev {
+    background-color: white;
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+    padding-top: 16vh;
+    padding-bottom: 16vh;
+    padding-left: 1vh;
+    opacity: 0.75;
+    margin-left: -11vh;
+    margin-right: -5vh;
+    left: 7%;
+    top: 9%;
+}

@@ -1,0 +1,422 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+html {
+    overflow-x: hidden;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.home-feature {
+    background: #2e2929;
+    height: 100%;
+}
+
+.home-splash img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.3;
+    position: relative;
+}
+
+.home-carousel {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 20%;
+}
+
+.home-slide img {
+    width: 60vh;
+    height: 85vh;  
+    margin: auto;
+}
+
+.home-slide {
+    transform: scale(0.7);
+    transition: transform 300ms;
+}
+
+.home-activeSlide {
+    transform: scale(1);
+}
+
+.home-carousel .home-arrow {
+    background-color: white;
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+    padding-top: 16vh;
+    padding-bottom: 16vh;
+    padding-left: 1vh;
+    opacity: 0.75;
+}
+
+.home-arrow svg {
+    transition: color 300ms;
+}
+
+.home-next {
+    right: 5%;
+    top: 30%;
+}
+
+.home-prev {
+    left: 5%;
+    top: 30%;
+}
+
+.home-desc {
+    color:white;
+    padding-top: 10px;
+}
+
+.home-price {
+    padding-left: 150px;
+}
+
+.home-bestseller {
+    text-align: left;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    overflow: visible;
+    margin-left: 5vh;
+}
+
+.home-wrapper {
+    padding-top: 3vh;
+}
+
+.home-bestseller .home-title {
+    color: white;
+    font-size: large;
+}
+
+.home-bestseller a {
+    float: right;
+    margin-right: 6.5vh;
+}
+
+.home-bestseller a:visited {
+    color: white;
+}
+
+.home-bestseller .home-arrow {
+    background-color: white;
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+    padding-top: 16vh;
+    padding-bottom: 16vh;
+    padding-left: 1vh;
+    opacity: 0.75;
+    top: 8%;
+    margin-left: -11vh;
+    margin-right: -5vh;
+}
+
+.home-slide {
+    transition: .2s;
+}
+
+.home-slide1 a {
+    display: inline-block;
+}
+
+.home-slide1 img {
+    width: 30vh;
+    height: 45vh;
+    margin: auto;
+}
+
+.home-slide1:hover {
+    transform: scale(1.25);
+}
+
+.list {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.slick-list {
+    overflow: visible;
+}
+
+.slick-track {
+    margin-left: 0;
+}
+
+.home-icons {
+    color: black;
+    position: absolute;
+    padding: 3px 5px 3px 5px;
+    background-color: darkgray;
+    border-radius: 50%;
+    right: 9vh;
+    top: 2vh;
+    outline: 2px solid black;
+}
+
+.home-icons1 {
+    color: black;
+    position: absolute;
+    padding: 3px 5px 3px 5px;
+    background-color: darkgray;
+    border-radius: 50%;
+    right: 9vh;
+    top: 10vh;
+    outline: 2px solid black;
+}
+
+.home-bookname {
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: 46vh;
+}
+
+.library-header {
+    margin-top: 8vh;
+}
+
+.library-feature {
+    background: #2e2929;
+    height: 100%;
+}
+
+.library-splash img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.3;
+    position: relative;
+}
+
+.library-carousel {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 20%;
+}
+
+.library-slide img {
+    width: 60vh;
+    height: 85vh;  
+    margin: auto;
+}
+
+.library-slide {
+    transform: scale(0.7);
+    transition: transform 300ms;
+}
+
+.library-activeSlide {
+    transform: scale(1);
+}
+
+.library-carousel .library-arrow {
+    background-color: white;
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+    padding-top: 16vh;
+    padding-bottom: 16vh;
+    padding-left: 1vh;
+    opacity: 0.75;
+}
+
+.library-arrow svg {
+    transition: color 300ms;
+}
+
+.library-next {
+    right: 5%;
+    top: 30%;
+}
+
+.library-prev {
+    left: 5%;
+    top: 30%;
+}
+
+.library-desc {
+    color:white;
+    padding-top: 10px;
+}
+
+.library-price {
+    padding-left: 150px;
+}
+
+.library-bestseller {
+    text-align: left;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    overflow: visible;
+    margin-left: 5vh;
+}
+
+.library-wrapper {
+    padding-top: 3vh;
+}
+
+.library-bestseller .library-title {
+    color: black;
+    font-size: large;
+}
+
+.library-bestseller a {
+    float: right;
+    margin-right: 6.5vh;
+}
+
+.library-bestseller a:visited {
+    color: black;
+}
+
+.library-bestseller .library-arrow {
+    background-color: white;
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+    padding-top: 16vh;
+    padding-bottom: 16vh;
+    padding-left: 1vh;
+    opacity: 0.75;
+    top: 8%;
+    margin-left: -11vh;
+    margin-right: -5vh;
+}
+
+.library-slide {
+    transition: .2s;
+}
+
+.library-slide1 a {
+    display: inline-block;
+}
+
+.library-slide1 img {
+    width: 30vh;
+    height: 45vh;
+    margin: auto;
+}
+
+.library-slide2 img {
+    width: 30vh;
+    height: 45vh;
+    margin: auto;
+}
+
+.library-slide1:hover {
+    transform: scale(1.25);
+}
+
+.library-icons {
+    color: black;
+    position: absolute;
+    padding: 3px 5px 3px 5px;
+    background-color: darkgray;
+    border-radius: 50%;
+    right: 9vh;
+    top: 2vh;
+    outline: 2px solid black;
+}
+
+.library-icons1 {
+    color: black;
+    position: absolute;
+    padding: 3px 5px 3px 5px;
+    background-color: darkgray;
+    border-radius: 50%;
+    right: 9vh;
+    top: 10vh;
+    outline: 2px solid black;
+}
+
+.library-bookname {
+    color: black;
+    font-size: small;
+    position: absolute;
+    top: 46vh;
+}
+
+.profile-separate {
+    height: 40vh;
+}
+
+.profile-label {
+    text-align: left;
+}
+
+.book-wrapper {
+    background-color: #2e2929;
+}
+
+.book-top {
+    padding-top: 10vh;
+    padding-bottom: 1vh;
+    width: 110vh;
+    margin: auto;
+}
+
+.book-next {
+    position: relative;
+    float: right;
+    z-index: 1;
+}
+
+.book-prev {
+    position: relative;
+    float: left;
+    z-index: 1;
+}
+
+.book-title {
+    color: white;
+    font-size: 30px;
+    padding-bottom: 5vh;
+}
+
+.book-select {
+    width: 35vh;
+}
+
+.book-select-div {
+    position: absolute;
+    left: 43%;
+    z-index: 1;
+}
+
+.book-pdf-container {
+    height: 100%;
+    margin: auto;
+    width: 110vh;
+    background-color: #2e2929;
+}
+
+.book-bottom {
+    padding-top: 5vh;
+    padding-bottom: 10vh;
+    width: 110vh;
+    margin: auto;
+}
+
+.react-pdf__Page__textContent {
+    display: none;
+}
+
+.react-pdf__Page__canvas {
+    padding-top: 15px;
+    margin: auto;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.react-pdf__Page {
+    z-index: 0;
+}

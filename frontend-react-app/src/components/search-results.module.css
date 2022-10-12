@@ -1,0 +1,25 @@
+.container {
+    padding: 10px;
+}
+
+.mainContainer {
+    display: flex;
+    margin: 30px;
+}
+
+.left {
+    width: 200px;
+    padding: 20px;
+}
+
+.menu {
+    position: fixed;
+}
+
+.menuItem {
+}
+
+.resultContainer {
+    padding: 20px;
+    width: 100%;
+}
